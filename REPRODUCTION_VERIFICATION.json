@@ -1,0 +1,457 @@
+{
+  "status": "PASS",
+  "public_dataset_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
+  "original_frozen_v1_1_sha256": "7b1bf2f3df4a90b64af5cfa31c01944762c14fcf434fbf00218367c4b9db1f26",
+  "N": 561,
+  "genre_counts": {
+    "pop": 79,
+    "rock": 79,
+    "gospel": 79,
+    "r&b": 85,
+    "rap": 80,
+    "country": 80,
+    "reggae": 79
+  },
+  "execution": "code/reproduce.py completed successfully using Python 3.12.14 and the evidenced package versions; source vendor directories supplied dependency libraries read-only. No source analysis or builder was executed.",
+  "statistical_tables": [
+    {
+      "repository_path": "code/analysis/round1/results/anova_omnibus.csv",
+      "reference_sha256": "e65384e37cb6216d2240b2423ac26cec8ab85f8914193e9128a4ec7e0e055a14",
+      "reproduced_sha256": "e65384e37cb6216d2240b2423ac26cec8ab85f8914193e9128a4ec7e0e055a14",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/anova_residuals.csv",
+      "reference_sha256": "805d490a146b4ee23da1e6a6ff8505c77d3c75ef5533dd690fe912d72197851f",
+      "reproduced_sha256": "805d490a146b4ee23da1e6a6ff8505c77d3c75ef5533dd690fe912d72197851f",
+      "rows": 4488,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/anova_sensitivity_pair_comparison.csv",
+      "reference_sha256": "511edd3977f5679b6e9ca297a7a26018df87df57608c0504862d45eb5d6ab771",
+      "reproduced_sha256": "511edd3977f5679b6e9ca297a7a26018df87df57608c0504862d45eb5d6ab771",
+      "rows": 168,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/artist_cluster_size_distribution.csv",
+      "reference_sha256": "41fab22f3e459d09f79477cdf1f064e4aaef31928562c9aad884b91d6f763968",
+      "reproduced_sha256": "41fab22f3e459d09f79477cdf1f064e4aaef31928562c9aad884b91d6f763968",
+      "rows": 13,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/artist_cluster_sizes.csv",
+      "reference_sha256": "a8fc45dad343ebefdb5d8748a3f54d31aec8d54da2ccdc43aab4a67e76672377",
+      "reproduced_sha256": "a8fc45dad343ebefdb5d8748a3f54d31aec8d54da2ccdc43aab4a67e76672377",
+      "rows": 231,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/artist_cluster_summary.csv",
+      "reference_sha256": "8dc13064600c93ae3c7935719d458db785fe8c288119b2faf0f3d7417faaf1ab",
+      "reproduced_sha256": "05bb5a037664b36dc77ef3ebadb41c7cff919bddbc4aad9d515bb7306dfb1d0b",
+      "rows": 1,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [
+        "Entirely null historical internal-review field; no analytical value omitted."
+      ],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/bonferroni_pairwise.csv",
+      "reference_sha256": "cd0df6ac252cc5b072edc1dbd9821799a6f7088be12c6f9aba2ba5a95a722ee7",
+      "reproduced_sha256": "cd0df6ac252cc5b072edc1dbd9821799a6f7088be12c6f9aba2ba5a95a722ee7",
+      "rows": 168,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/cluster_coefficients.csv",
+      "reference_sha256": "169e484a922339fa5b29ac537465b8842e124d6cf52a3e1881c5e625d1c954e6",
+      "reproduced_sha256": "169e484a922339fa5b29ac537465b8842e124d6cf52a3e1881c5e625d1c954e6",
+      "rows": 16,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/cluster_genre_slopes.csv",
+      "reference_sha256": "e9894d0475c42dec39623bc529a7d473b2fd7406871ed1e104d84339e5be78b4",
+      "reproduced_sha256": "e9894d0475c42dec39623bc529a7d473b2fd7406871ed1e104d84339e5be78b4",
+      "rows": 14,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/cluster_models.csv",
+      "reference_sha256": "fdb339d056465e1f913bb672878041334a7bbf3afc36cece37864d01698681d3",
+      "reproduced_sha256": "fdb339d056465e1f913bb672878041334a7bbf3afc36cece37864d01698681d3",
+      "rows": 2,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/cluster_rap_contrasts.csv",
+      "reference_sha256": "092352c354684fc29ae8b7ed847ef3637390bda0d8e606ac796d43cb35474c43",
+      "reproduced_sha256": "092352c354684fc29ae8b7ed847ef3637390bda0d8e606ac796d43cb35474c43",
+      "rows": 12,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/cluster_vs_HC3_coefficients.csv",
+      "reference_sha256": "2abe6a9e82007a46cf08cc3b8733a8f069481ea6d6307728047ff07497d2f5b1",
+      "reproduced_sha256": "2abe6a9e82007a46cf08cc3b8733a8f069481ea6d6307728047ff07497d2f5b1",
+      "rows": 16,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/cross_domain_correlations.csv",
+      "reference_sha256": "dc934bc1a853d6bef3ea475658e0c24f0c1b141e6c4b9653e6e4eb0b56c8cf10",
+      "reproduced_sha256": "dc934bc1a853d6bef3ea475658e0c24f0c1b141e6c4b9653e6e4eb0b56c8cf10",
+      "rows": 16,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/descriptives_full.csv",
+      "reference_sha256": "1e180b7e9bbacea240b3fe2359249c1c024668689da81ab4a49fcae63572a8b4",
+      "reproduced_sha256": "1e180b7e9bbacea240b3fe2359249c1c024668689da81ab4a49fcae63572a8b4",
+      "rows": 56,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/descriptives_manuscript_mean_SD.csv",
+      "reference_sha256": "3fd190ae9865337283d75abb911f736ea52d703bd370223687a4c3a26bc5ca4e",
+      "reproduced_sha256": "3fd190ae9865337283d75abb911f736ea52d703bd370223687a4c3a26bc5ca4e",
+      "rows": 7,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/games_howell_pairwise.csv",
+      "reference_sha256": "c6323f2ccc3a4100b8a1b4e12ae52627c51e08529cdb1e077bb67087ff654325",
+      "reproduced_sha256": "c6323f2ccc3a4100b8a1b4e12ae52627c51e08529cdb1e077bb67087ff654325",
+      "rows": 168,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/hc3_coefficients.csv",
+      "reference_sha256": "aa4a455883c026f056deeb65c616cf1512018cde1ae5f50fefac85a8bc41be7a",
+      "reproduced_sha256": "aa4a455883c026f056deeb65c616cf1512018cde1ae5f50fefac85a8bc41be7a",
+      "rows": 58,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/hc3_genre_slopes.csv",
+      "reference_sha256": "8d602d0072e331e369548b5b9f0acbffb54ba9c2e0d3316a9dc088c43a814732",
+      "reproduced_sha256": "8d602d0072e331e369548b5b9f0acbffb54ba9c2e0d3316a9dc088c43a814732",
+      "rows": 28,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/hc3_model0_model1_comparison.csv",
+      "reference_sha256": "e5efab990ad2893ddd67261dee6bca85929fc6bf2cab8283bdf33b9def50ab42",
+      "reproduced_sha256": "e5efab990ad2893ddd67261dee6bca85929fc6bf2cab8283bdf33b9def50ab42",
+      "rows": 2,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/hc3_models.csv",
+      "reference_sha256": "916880494cb54d82a9dd3711a584f3dd0e8b664a6e4b0e2859c8b9aa65d7dfce",
+      "reproduced_sha256": "916880494cb54d82a9dd3711a584f3dd0e8b664a6e4b0e2859c8b9aa65d7dfce",
+      "rows": 6,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/hc3_rap_attenuation.csv",
+      "reference_sha256": "8a67a341f4bd2f345db51e1a37cdcb7f203c820ed2cd3f357ba0a885809c4c46",
+      "reproduced_sha256": "8a67a341f4bd2f345db51e1a37cdcb7f203c820ed2cd3f357ba0a885809c4c46",
+      "rows": 12,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/hc3_rap_contrasts.csv",
+      "reference_sha256": "7d415a21ea0b2633164e76970dd938d91b88f4d6ff2134e553fdc29704af8ad2",
+      "reproduced_sha256": "7d415a21ea0b2633164e76970dd938d91b88f4d6ff2134e553fdc29704af8ad2",
+      "rows": 36,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/pearson_p_matrix.csv",
+      "reference_sha256": "5ac60816c91098c62b88058c0ac82cd13631cc41a5af91eba9cab34f7c86900a",
+      "reproduced_sha256": "5ac60816c91098c62b88058c0ac82cd13631cc41a5af91eba9cab34f7c86900a",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/pearson_r_matrix.csv",
+      "reference_sha256": "9c2569ab29a3ed1ecf822f2ef64908e3509ef861b89b0af093c1f5c22f17a86e",
+      "reproduced_sha256": "9c2569ab29a3ed1ecf822f2ef64908e3509ef861b89b0af093c1f5c22f17a86e",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/qq_coordinates.csv",
+      "reference_sha256": "a4b9d59949375e1adf3c23e96518767f9785cb02047ad2756666d013afd5dc0f",
+      "reproduced_sha256": "a4b9d59949375e1adf3c23e96518767f9785cb02047ad2756666d013afd5dc0f",
+      "rows": 4488,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round1/results/variance_diagnostics.csv",
+      "reference_sha256": "38ad2a47e707c198dd60687c1ac5b0a857775f2822f1f8d143ef17d5581db44d",
+      "reproduced_sha256": "38ad2a47e707c198dd60687c1ac5b0a857775f2822f1f8d143ef17d5581db44d",
+      "rows": 56,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/figure_correlation_matrix.csv",
+      "reference_sha256": "70b3e6bff385619bc2ee8fa1eb889eadc3932eac1fb84c5b66dc7c284a2bd4c2",
+      "reproduced_sha256": "70b3e6bff385619bc2ee8fa1eb889eadc3932eac1fb84c5b66dc7c284a2bd4c2",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_component_coefficients.csv",
+      "reference_sha256": "51580efa121ee69ce5e08275447f3dec749aea5501973456b85cfc777bdab79f",
+      "reproduced_sha256": "51580efa121ee69ce5e08275447f3dec749aea5501973456b85cfc777bdab79f",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_genre_centroids.csv",
+      "reference_sha256": "b4df510b947f287d134996ca1e6c1250427b0d8fad952025fdba42a822562ce9",
+      "reproduced_sha256": "b4df510b947f287d134996ca1e6c1250427b0d8fad952025fdba42a822562ce9",
+      "rows": 7,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_genre_score_distributions.csv",
+      "reference_sha256": "f93b0a6bd308ec5f9ec4ca8d687ddb0fe10c6c76e61ed3a719380b9bdc6e25ba",
+      "reproduced_sha256": "f93b0a6bd308ec5f9ec4ca8d687ddb0fe10c6c76e61ed3a719380b9bdc6e25ba",
+      "rows": 56,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_loadings.csv",
+      "reference_sha256": "313cc1cd47812b57e7d9c3c307b32892717c4a50de2ed7eaba635770ddaf5db4",
+      "reproduced_sha256": "313cc1cd47812b57e7d9c3c307b32892717c4a50de2ed7eaba635770ddaf5db4",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_scaling.csv",
+      "reference_sha256": "2544c5d181920d8d1ccec0e2ca53d397f7d792b80f434458468ee62783e141f0",
+      "reproduced_sha256": "2544c5d181920d8d1ccec0e2ca53d397f7d792b80f434458468ee62783e141f0",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_song_scores.csv",
+      "reference_sha256": "e017bb276b299852c0225b23ea0300beaf07aa6f735fa45687af6adca324d0cd",
+      "reproduced_sha256": "e017bb276b299852c0225b23ea0300beaf07aa6f735fa45687af6adca324d0cd",
+      "rows": 561,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_validation.csv",
+      "reference_sha256": "99d68e7f34e01976ecbd7ec12fe2afe16631069ce687b63689f8bc5e380fad4f",
+      "reproduced_sha256": "99d68e7f34e01976ecbd7ec12fe2afe16631069ce687b63689f8bc5e380fad4f",
+      "rows": 7,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_variance.csv",
+      "reference_sha256": "084520e58d47df50e1d71ff54d521815fd015dd5fe590c5fbecc4737565ba5ad",
+      "reproduced_sha256": "084520e58d47df50e1d71ff54d521815fd015dd5fe590c5fbecc4737565ba5ad",
+      "rows": 8,
+      "max_abs_numeric_difference": 0.0,
+      "excluded_reference_metadata": [],
+      "passed": true
+    }
+  ],
+  "all_numeric_values_equal_to_frozen": true,
+  "figures": [
+    {
+      "repository_path": "figures/Figure2_lexical_final_style.png",
+      "approved_sha256": "43fe027e99840af944106a653ff2cb693e29c4d999d0da65e30d16d8766f0b7c",
+      "reproduced_sha256": "43fe027e99840af944106a653ff2cb693e29c4d999d0da65e30d16d8766f0b7c",
+      "pixel_identical": true,
+      "byte_identical": true,
+      "dimensions": [
+        3359,
+        2235
+      ]
+    },
+    {
+      "repository_path": "figures/Figure3_dependency_structural_final_style.png",
+      "approved_sha256": "20599a1a9a3d1b1daae413e9bc17d4026dc066f27538f4dd0fe1dd27762b49f0",
+      "reproduced_sha256": "20599a1a9a3d1b1daae413e9bc17d4026dc066f27538f4dd0fe1dd27762b49f0",
+      "pixel_identical": true,
+      "byte_identical": true,
+      "dimensions": [
+        3360,
+        2235
+      ]
+    },
+    {
+      "repository_path": "figures/Figure4_correlation_matrix_v1_1.png",
+      "approved_sha256": "9fe792a9685942021ff05f4a0f1adff1c09da3f2e7aeb2164d0b913f057eda91",
+      "reproduced_sha256": "9fe792a9685942021ff05f4a0f1adff1c09da3f2e7aeb2164d0b913f057eda91",
+      "pixel_identical": true,
+      "byte_identical": true,
+      "dimensions": [
+        3715,
+        1457
+      ]
+    },
+    {
+      "repository_path": "figures/Figure5_PCA_v1_1.png",
+      "approved_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
+      "reproduced_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
+      "pixel_identical": true,
+      "byte_identical": true,
+      "dimensions": [
+        2728,
+        1988
+      ]
+    }
+  ],
+  "figure4_discrepancy_resolution": "Initial staging used a superseded parent-folder PNG. It was replaced by the approved terminology revision. All current figure PNGs are now byte-identical to fresh rerenders.",
+  "anchors": {
+    "PC1": {
+      "actual": 33.68294408319581,
+      "target": 33.68294,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 33.68294408319581,
+      "difference_from_frozen": 0.0
+    },
+    "PC2": {
+      "actual": 23.353014384444496,
+      "target": 23.35301,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 23.353014384444496,
+      "difference_from_frozen": 0.0
+    },
+    "PC1 + PC2": {
+      "actual": 57.0359584676403,
+      "target": 57.03596,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 57.0359584676403,
+      "difference_from_frozen": 0.0
+    },
+    "MDD M1 genre p": {
+      "actual": 0.005637682494619569,
+      "target": 0.00564,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.005637682494619569,
+      "difference_from_frozen": 0.0
+    },
+    "MDD interaction p": {
+      "actual": 0.0012873071523190058,
+      "target": 0.00129,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.0012873071523190058,
+      "difference_from_frozen": 0.0
+    },
+    "MHD M1 genre p": {
+      "actual": 0.0013243670308258283,
+      "target": 0.00132,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.0013243670308258283,
+      "difference_from_frozen": 0.0
+    },
+    "MHD interaction p": {
+      "actual": 0.6936967375815176,
+      "target": 0.6937,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.6936967375815176,
+      "difference_from_frozen": 0.0
+    },
+    "MATTR / MDD": {
+      "actual": -0.02703475538229141,
+      "target": -0.027,
+      "tolerance": 5e-05,
+      "passed": true,
+      "frozen_v1_1_value": -0.02703475538229141,
+      "difference_from_frozen": 0.0
+    },
+    "MATTR / line_repetition_rate": {
+      "actual": -0.4127383238711208,
+      "target": -0.4127,
+      "tolerance": 5e-05,
+      "passed": true,
+      "frozen_v1_1_value": -0.4127383238711208,
+      "difference_from_frozen": 0.0
+    }
+  }
+}

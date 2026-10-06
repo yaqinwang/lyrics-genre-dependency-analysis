@@ -1,0 +1,42 @@
+{
+  "dataset_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
+  "files": [
+    {
+      "path": "final_analysis_dataset_public.csv",
+      "sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963"
+    }
+  ],
+  "original_frozen_v1_1_sha256": "7b1bf2f3df4a90b64af5cfa31c01944762c14fcf434fbf00218367c4b9db1f26",
+  "derivation": "Column projection only; row order and every retained string value preserved.",
+  "removed_columns": [
+    "membership_status",
+    "v1_0_file_id",
+    "v1_0_primary_artist",
+    "source_raw_path",
+    "source_raw_sha256",
+    "raw_path",
+    "raw_sha256",
+    "analytical_input_path",
+    "analytical_input_sha256",
+    "annotation_exclusions",
+    "recording_text_status"
+  ],
+  "retained_columns": [
+    "song_id",
+    "file_id",
+    "song_title",
+    "genre",
+    "primary_artist",
+    "all_credited_artists",
+    "MATTR",
+    "lexical_density",
+    "avg_syllables",
+    "lexical_sophistication",
+    "token_count",
+    "MDD",
+    "MHD",
+    "avg_line_length",
+    "line_repetition_rate"
+  ],
+  "N": 561
+}

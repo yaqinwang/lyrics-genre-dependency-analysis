@@ -1,0 +1,227 @@
+{
+  "description": "Private source locations omitted. Original hashes preserve provenance; all paths are repository-relative.",
+  "files": [
+    {
+      "repository_path": "code/analysis/round1/01_descriptives.py",
+      "source_sha256": "1867a88540545c7c7e28d9fbcd9f0b904e82d32406a863665e0c45087023d89f",
+      "staged_sha256": "1867a88540545c7c7e28d9fbcd9f0b904e82d32406a863665e0c45087023d89f",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round1/02_anova_posthoc.py",
+      "source_sha256": "bbbbe2965a82fa032c3e5e3bb197762e802f48089892f0e2bb0a253cf6ef4a9f",
+      "staged_sha256": "bbbbe2965a82fa032c3e5e3bb197762e802f48089892f0e2bb0a253cf6ef4a9f",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round1/03_correlations.py",
+      "source_sha256": "169557dbfaacff8178002bdfde76359862b0995d6399ee52b80590a3cdc7cba9",
+      "staged_sha256": "169557dbfaacff8178002bdfde76359862b0995d6399ee52b80590a3cdc7cba9",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round1/04_line_length_robustness.py",
+      "source_sha256": "2a0059fa54f503e0a67f0d3e57f954ff471739ab482156d62eba423ce44809b7",
+      "staged_sha256": "2a0059fa54f503e0a67f0d3e57f954ff471739ab482156d62eba423ce44809b7",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round1/05_artist_cluster_robustness.py",
+      "source_sha256": "f9d6fbcb6e61d90f8c5285a4db17ed99caa1de71109a9a48891185319e6a1339",
+      "staged_sha256": "5ee710908cb5b5f7a31dd9a6bb804920c0d195328605bb210582c89deb13702c",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "code/analysis/round1/common.py",
+      "source_sha256": "abe4b437ad7beee1b4597536664d757824f49b9628ce20a81b2e71c16680dd4f",
+      "staged_sha256": "3a9412d63b171cb8f2b864d530436561c228e5f987d8e0c1767a3acc2d9cbf79",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "code/analysis/round2/common.py",
+      "source_sha256": "16b4f741f8bf5c25eced6c6643399729d76286b062101d1e5cce0c8ef8c81634",
+      "staged_sha256": "4f6625609d3889904572b67b3df675c4c9a0180f614d06fcb903528cc2badb96",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "code/analysis/round2/01_pca.py",
+      "source_sha256": "db37c222858905e448c664105f9bb58256fe892501248ac287e4e755a1e6a344",
+      "staged_sha256": "db37c222858905e448c664105f9bb58256fe892501248ac287e4e755a1e6a344",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/frozen_dataset_v1_1.py",
+      "source_sha256": "7d265b7a137351d8c63002aa58601bf2b0b0a52cc31d7465a7606c11284737d2",
+      "staged_sha256": "d26d8490750eb6f49e9a26aa624e251e1d697d9b649a0d1d1c53b828f7d20d8b",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "data/dataset_manifest.json",
+      "source_sha256": null,
+      "staged_sha256": "871bb8dbfd216cd979805ba8f97f20832cc5f6a4f750a2ea60c80a3bf37b8fe4",
+      "status": "generated"
+    },
+    {
+      "repository_path": "code/features/lexical_metrics.py",
+      "source_sha256": "208a34d0ce65254f964b4543c56573045dada33a36e5af5d2b340fc52fe35ea7",
+      "staged_sha256": "208a34d0ce65254f964b4543c56573045dada33a36e5af5d2b340fc52fe35ea7",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/features/final_lexical_metrics.py",
+      "source_sha256": "b4bf339a9e2780454f977b1880e36d887940c7ef3b0644ca06a6a398a4be86de",
+      "staged_sha256": "b4bf339a9e2780454f977b1880e36d887940c7ef3b0644ca06a6a398a4be86de",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/features/syntactic_metrics.py",
+      "source_sha256": "4a0e23e087fd3484e8fca2b52b8af3acf4e1ea6d998a3092f001bd04253d2c8e",
+      "staged_sha256": "4a0e23e087fd3484e8fca2b52b8af3acf4e1ea6d998a3092f001bd04253d2c8e",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/features/parser.properties",
+      "source_sha256": "d90757b1e27e186b0686ac8c8b678a63efffa4560a4f970ed2ecc0460dd14a3a",
+      "staged_sha256": "d90757b1e27e186b0686ac8c8b678a63efffa4560a4f970ed2ecc0460dd14a3a",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "supplementary/Supplementary_Table_S1_FINAL.xlsx",
+      "source_sha256": "20ea13876f526ff7838bef5c668d51d117c3b32c2f8c788b6e4c829d5e956e3b",
+      "staged_sha256": "20ea13876f526ff7838bef5c668d51d117c3b32c2f8c788b6e4c829d5e956e3b",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "data/song_inventory.csv",
+      "source_sha256": null,
+      "staged_sha256": "18e41312376d784a4dffbe222f4f3cec05fb0c2179f4becedff8ab9cdc077355",
+      "status": "generated"
+    },
+    {
+      "repository_path": "supplementary/Supplementary_Table_S2.md",
+      "source_sha256": "13a61beceea045a51a1bd6a3e11e35483638c8a51a36d9024073893f7e0d4405",
+      "staged_sha256": "13a61beceea045a51a1bd6a3e11e35483638c8a51a36d9024073893f7e0d4405",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "supplementary/Supplementary_Table_S2.xlsx",
+      "source_sha256": "dffcdc26b80384382937baacb35a7d9cec11914a41bcb92b56fa07f6a0f4e737",
+      "staged_sha256": "dffcdc26b80384382937baacb35a7d9cec11914a41bcb92b56fa07f6a0f4e737",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "figures/Figure2_lexical_final_style.png",
+      "source_sha256": "43fe027e99840af944106a653ff2cb693e29c4d999d0da65e30d16d8766f0b7c",
+      "staged_sha256": "43fe027e99840af944106a653ff2cb693e29c4d999d0da65e30d16d8766f0b7c",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "figures/Figure3_dependency_structural_final_style.png",
+      "source_sha256": "20599a1a9a3d1b1daae413e9bc17d4026dc066f27538f4dd0fe1dd27762b49f0",
+      "staged_sha256": "20599a1a9a3d1b1daae413e9bc17d4026dc066f27538f4dd0fe1dd27762b49f0",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "figures/Figure4_correlation_matrix_v1_1.png",
+      "source_sha256": "9fe792a9685942021ff05f4a0f1adff1c09da3f2e7aeb2164d0b913f057eda91",
+      "staged_sha256": "9fe792a9685942021ff05f4a0f1adff1c09da3f2e7aeb2164d0b913f057eda91",
+      "status": "copied unchanged from approved terminology revision"
+    },
+    {
+      "repository_path": "figures/Figure5_PCA_v1_1.png",
+      "source_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
+      "staged_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round1/results/pearson_r_matrix.csv",
+      "source_sha256": "9c2569ab29a3ed1ecf822f2ef64908e3509ef861b89b0af093c1f5c22f17a86e",
+      "staged_sha256": "9c2569ab29a3ed1ecf822f2ef64908e3509ef861b89b0af093c1f5c22f17a86e",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round2/results/figure_correlation_matrix.csv",
+      "source_sha256": "70b3e6bff385619bc2ee8fa1eb889eadc3932eac1fb84c5b66dc7c284a2bd4c2",
+      "staged_sha256": "70b3e6bff385619bc2ee8fa1eb889eadc3932eac1fb84c5b66dc7c284a2bd4c2",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_loadings.csv",
+      "source_sha256": "313cc1cd47812b57e7d9c3c307b32892717c4a50de2ed7eaba635770ddaf5db4",
+      "staged_sha256": "313cc1cd47812b57e7d9c3c307b32892717c4a50de2ed7eaba635770ddaf5db4",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_variance.csv",
+      "source_sha256": "084520e58d47df50e1d71ff54d521815fd015dd5fe590c5fbecc4737565ba5ad",
+      "staged_sha256": "084520e58d47df50e1d71ff54d521815fd015dd5fe590c5fbecc4737565ba5ad",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_song_scores.csv",
+      "source_sha256": "e017bb276b299852c0225b23ea0300beaf07aa6f735fa45687af6adca324d0cd",
+      "staged_sha256": "e017bb276b299852c0225b23ea0300beaf07aa6f735fa45687af6adca324d0cd",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/analysis/round2/results/pca_genre_centroids.csv",
+      "source_sha256": "b4df510b947f287d134996ca1e6c1250427b0d8fad952025fdba42a822562ce9",
+      "staged_sha256": "b4df510b947f287d134996ca1e6c1250427b0d8fad952025fdba42a822562ce9",
+      "status": "copied unchanged"
+    },
+    {
+      "repository_path": "code/figures/generate_figures2_3.py",
+      "source_sha256": "e02088f14eac62c63b41c093b5bf47b476c091ff22bae5e7ecbfe73a7c03f224",
+      "staged_sha256": "56a3e99fee918b1ecfb9d554b5fea89a55e3ba51439f9c60e3336429bc97c379",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "code/figures/generate_figure4.py",
+      "source_sha256": "adbe959101802cad7c05a1bee092629340308cde2c52a0905f000e16bd2c4b1f",
+      "staged_sha256": "81b669793c0dcd2b77d744024751d0056f0217e395874b47ab13977218d72b74",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "code/figures/generate_figure5.py",
+      "source_sha256": "6be838402d73bbec8df4b4e013466ddc5d57b5195970b06193ce89a7802daeac",
+      "staged_sha256": "594952262f140479d564765c16089c225d3be6ef194371cc55fa1d89e2bfc4f6",
+      "status": "adapted in staging for public data/portability"
+    },
+    {
+      "repository_path": "requirements.txt",
+      "source_sha256": null,
+      "staged_sha256": "a75304a7f1eef737d5385fc19a13007336094a24d955b8626f5798413c4b513b",
+      "status": "generated"
+    },
+    {
+      "repository_path": ".gitignore",
+      "source_sha256": null,
+      "staged_sha256": "c52f70ac604b35eccf743021ed5bbcd95c13bb5cfea86786a3cb4f80e8c1fa47",
+      "status": "final publication documentation/configuration update"
+    },
+    {
+      "repository_path": "code/reproduce.py",
+      "source_sha256": null,
+      "staged_sha256": "c4ecd6ea4717486205791d3766a209e9e7eda9e5f3355695c7f829dc3e96b555",
+      "status": "generated"
+    },
+    {
+      "repository_path": "code/verify_anchors.py",
+      "source_sha256": null,
+      "staged_sha256": "e6017e7fec71609ad140ff52e4d83d1b0070a8075fa572589347c313e361905d",
+      "status": "generated"
+    },
+    {
+      "repository_path": "README.md",
+      "source_sha256": null,
+      "staged_sha256": "041ee3af4d47003f5a64cd25f762c3f349de783119f58e09c8a198b9a65843e0",
+      "status": "final publication documentation/configuration update"
+    },
+    {
+      "repository_path": "data/final_analysis_dataset_public.csv",
+      "source_sha256": "7b1bf2f3df4a90b64af5cfa31c01944762c14fcf434fbf00218367c4b9db1f26",
+      "staged_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
+      "status": "column projection; retained values unchanged"
+    }
+  ]
+}

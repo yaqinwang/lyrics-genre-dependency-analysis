@@ -1,0 +1,3 @@
+outcome,model,covariance,N,R_squared,adjusted_R_squared,genre_F,genre_df_num,genre_df_denom,genre_p,centered_at,genre_test_interpretation,clusters,finite_cluster_covariance_multiplier,cluster_inference_df
+MDD,M1,cluster,561,0.64612963456715045,0.64165026285281057,3.4943973056699718,6,230,0.0025119038394802876,8.1747593782454171,common genre effects,231,1.0170610897083103,230
+MHD,M1,cluster,561,0.62921374800148477,0.62452025114074405,3.9196055733519075,6,230,0.00094847451586975299,8.1747593782454171,common genre effects,231,1.0170610897083103,230

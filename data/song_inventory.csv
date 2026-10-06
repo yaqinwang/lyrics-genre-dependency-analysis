@@ -1,0 +1,562 @@
+song_id,genre,primary_artist,song_title,eligibility_pathway,recognized_work,grammy_ceremony_year,eligibility_cycle_end_year,grammy_category,recognition_status
+1.1.1,Pop,Lady Gaga,Where Do You Think You’re Goin’,individual_song_or_recording,Joanne (Where Do You Think You're Goin'?),2019,2018,Best Pop Solo Performance,Winner
+1.1.2,Pop,Lady Gaga,Shallow,individual_song_or_recording,Shallow,2019,2018,Best Pop Duo/Group Performance,Winner
+1.1.3,Pop,Tony Bennett,Cheek To Cheek,recognized_album_track,Cheek To Cheek,2015,2014,Best Traditional Pop Vocal Album,Winner
+1.1.4,Pop,Lady Gaga,Monster,recognized_album_track,The Fame Monster,2011,2010,Best Pop Vocal Album,Winner
+1.1.5,Pop,Lady Gaga,Dance In The Dark,recognized_album_track,The Fame Monster,2011,2010,Best Pop Vocal Album,Winner
+1.10.1,Pop,Tony Bennett,Pick Yourself Up,recognized_album_track,The Silver Lining: The Songs Of Jerome Kern,2016,2015,Best Traditional Pop Vocal Album,Winner
+1.10.2,Pop,Tony Bennett,I Won't Dance,recognized_album_track,Cheek To Cheek,2015,2014,Best Traditional Pop Vocal Album,Winner
+1.10.3,Pop,Tony Bennett,The Song Is You,recognized_album_track,The Silver Lining: The Songs Of Jerome Kern,2016,2015,Best Traditional Pop Vocal Album,Winner
+1.10.4,Pop,Tony Bennett,I'm Old Fashioned,recognized_album_track,The Silver Lining: The Songs Of Jerome Kern,2016,2015,Best Traditional Pop Vocal Album,Winner
+1.10.5,Pop,Tony Bennett,Nobody Else But Me,recognized_album_track,The Silver Lining: The Songs Of Jerome Kern,2016,2015,Best Traditional Pop Vocal Album,Winner
+1.11.1,Pop,Sam Smith,In The Lonely Hour,recognized_album_track,In The Lonely Hour,2015,2014,Best Pop Vocal Album,Winner
+1.11.2,Pop,Sam Smith,Leave Your Lover,recognized_album_track,In The Lonely Hour,2015,2014,Best Pop Vocal Album,Winner
+1.11.3,Pop,Sam Smith,Lay Me Down,recognized_album_track,In The Lonely Hour,2015,2014,Best Pop Vocal Album,Winner
+1.11.4,Pop,Sam Smith,I've Told You Now,recognized_album_track,In The Lonely Hour,2015,2014,Best Pop Vocal Album,Winner
+1.12.1,Pop,Lorde,Royals,individual_song_or_recording,Royals,2014,2013,Best Pop Solo Performance,Winner
+1.13.1,Pop,Bruno Mars,Young Girls,recognized_album_track,Unorthodox Jukebox,2014,2013,Best Pop Vocal Album,Winner
+1.13.2,Pop,Bruno Mars,Locked Out Of Heaven,individual_song_or_recording,Locked Out Of Heaven,2014,2013,Record Of The Year,Nominee
+1.13.3,Pop,Bruno Mars,When I Was Your Man,individual_song_or_recording,When I Was Your Man,2014,2013,Best Pop Solo Performance,Nominee
+1.13.4,Pop,Bruno Mars,Just The Way You Are,individual_song_or_recording,Just The Way You Are,2011,2010,Best Male Pop Vocal Performance,Winner
+1.14.1,Pop,Daft Punk,Get Lucky,individual_song_or_recording,Get Lucky,2014,2013,Best Pop Duo/Group Performance,Winner
+1.15.1,Pop,Kelly Clarkson,Honestly,recognized_album_track,Stronger,2013,2012,Best Pop Vocal Album,Winner
+1.15.2,Pop,Kelly Clarkson,Let Me Down,recognized_album_track,Stronger,2013,2012,Best Pop Vocal Album,Winner
+1.15.3,Pop,Kelly Clarkson,Alone,recognized_album_track,Stronger,2013,2012,Best Pop Vocal Album,Winner
+1.16.1,Pop,Gotye,Somebody That I Used To Know,individual_song_or_recording,Somebody That I Used To Know,2013,2012,Best Pop Duo/Group Performance,Winner
+1.17.1,Pop,Train,"Hey, Soul Sister",individual_song_or_recording,"Hey, Soul Sister (Live)",2011,2010,Best Pop Performance By A Duo Or Group With Vocals,Winner
+1.18.1,Pop,Miley Cyrus,Flowers,individual_song_or_recording,Flowers,2024,2023,Best Pop Solo Performance,Winner
+1.19.1,Pop,Taylor Swift,Anti-Hero,individual_song_or_recording,Anti-Hero,2024,2023,Best Pop Solo Performance,Nominee
+1.19.2,Pop,Taylor Swift,You Need To Calm Down,individual_song_or_recording,You Need To Calm Down,2020,2019,Best Pop Solo Performance,Nominee
+1.2.1,Pop,Willie Nelson,My way,recognized_album_track,My Way,2019,2018,Best Traditional Pop Vocal Album,Winner
+1.20.1,Pop,Olivia Rodrigo,Vampire,individual_song_or_recording,Vampire,2024,2023,Best Pop Solo Performance,Nominee
+1.20.2,Pop,Olivia Rodrigo,Drivers license,individual_song_or_recording,drivers license,2022,2021,Best Pop Solo Performance,Winner
+1.21.1,Pop,Billie Eilish,What Was I Made For,individual_song_or_recording,"What Was I Made For? [From ""Barbie The Album""]",2024,2023,Best Song Written For Visual Media,Winner
+1.21.2,Pop,Billie Eilish,Happier Than Ever,individual_song_or_recording,Happier Than Ever,2022,2021,Best Music Video,Nominee
+1.21.3,Pop,Billie Eilish,Bad Guy,individual_song_or_recording,Bad Guy,2020,2019,Record Of The Year,Winner
+1.21.4,Pop,Billie Eilish,Everything I Wanted,individual_song_or_recording,Everything I Wanted,2021,2020,Record Of The Year,Winner
+1.22.1,Pop,Doja Cat,Paint The Town Red,individual_song_or_recording,Paint The Town Red,2024,2023,Best Pop Solo Performance,Nominee
+1.22.2,Pop,Doja Cat,Say So,individual_song_or_recording,Say So,2021,2020,Best Pop Solo Performance,Nominee
+1.22.3,Pop,Doja Cat,Woman,individual_song_or_recording,Woman,2023,2022,Best Music Video,Nominee
+1.23.1,Pop,Adele,Easy on Me,individual_song_or_recording,Easy On Me,2023,2022,Best Pop Solo Performance,Winner
+1.24.1,Pop,Harry Styles,As It Was,individual_song_or_recording,As It Was,2023,2022,Best Music Video,Nominee
+1.24.2,Pop,Harry Styles,Watermelon sugar,individual_song_or_recording,Watermelon Sugar,2021,2020,Best Pop Solo Performance,Winner
+1.25.1,Pop,Steve Lacy,Bad Habit,individual_song_or_recording,Bad Habit,2023,2022,Best Pop Solo Performance,Nominee
+1.26.1,Pop,Lizzo,About Damn Time,individual_song_or_recording,About Damn Time,2023,2022,Record Of The Year,Winner
+1.26.2,Pop,Lizzo,Truth Hurts,individual_song_or_recording,Truth Hurts,2020,2019,Best Pop Solo Performance,Winner
+1.27.1,Pop,Ariana Grande,positions,individual_song_or_recording,Positions,2022,2021,Best Pop Solo Performance,Nominee
+1.28.1,Pop,Brandi Carlile,Right on Time,individual_song_or_recording,Right On Time,2022,2021,Best Pop Solo Performance,Nominee
+1.29.1,Pop,Justin Bieber,Anyone,individual_song_or_recording,Anyone,2022,2021,Best Pop Solo Performance,Nominee
+1.29.2,Pop,Justin Bieber,Yummy,individual_song_or_recording,Yummy,2021,2020,Best Pop Solo Performance,Nominee
+1.3.1,Pop,Ed Sheeran,Shape Of You,individual_song_or_recording,Shape Of You,2018,2017,Best Pop Solo Performance,Winner
+1.3.2,Pop,Ed Sheeran,Eraser,recognized_album_track,÷ (Divide),2018,2017,Best Pop Vocal Album,Winner
+1.3.3,Pop,Ed Sheeran,Hearts Don't Break Around Here,recognized_album_track,÷ (Divide),2018,2017,Best Pop Vocal Album,Winner
+1.3.4,Pop,Ed Sheeran,Castle On The Hill,recognized_album_track,÷ (Divide),2018,2017,Best Pop Vocal Album,Winner
+1.30.1,Pop,Dua Lipa,Don't Start Now,individual_song_or_recording,Don't Start Now,2021,2020,Best Pop Solo Performance,Nominee
+1.31.17,Pop,Ariana Grande,7 rings,individual_song_or_recording,7 rings,2020,2019,Best Pop Solo Performance,Nominee
+1.32.1,Pop,Beyoncé,Spirit,individual_song_or_recording,Spirit,2020,2019,Best Pop Solo Performance,Nominee
+1.33.1,Pop,Sabrina Carpenter,Espresso,individual_song_or_recording,Espresso,2025,2024,Best Pop Solo Performance,Winner
+1.34.1,Pop,Charli xcx,Apple,individual_song_or_recording,Apple,2025,2024,Best Pop Solo Performance,Nominee
+1.35.1,Pop,Chappell Roan,"Good Luck,Babe",individual_song_or_recording,"Good Luck, Babe!",2025,2024,Best Pop Solo Performance,Nominee
+1.4.1,Pop,Portugal. The Man,Feel It Still,individual_song_or_recording,Feel It Still,2018,2017,Best Pop Duo/Group Performance,Winner
+1.5.1,Pop,Adele,Hello,individual_song_or_recording,Hello,2017,2016,Best Pop Solo Performance,Winner
+1.5.2,Pop,Adele,Remedy,recognized_album_track,25,2017,2016,Album Of The Year,Winner
+1.5.3,Pop,Adele,When We Were Young,recognized_album_track,25,2017,2016,Album Of The Year,Winner
+1.5.4,Pop,Adele,Water Under The Bridge,recognized_album_track,25,2017,2016,Album Of The Year,Winner
+1.5.5,Pop,Adele,Love In The Dark,recognized_album_track,25,2017,2016,Album Of The Year,Winner
+1.5.6,Pop,Adele,Can't Let Go,recognized_album_track,25,2017,2016,Album Of The Year,Winner
+1.5.7,Pop,Adele,Set Fire to the Rain,individual_song_or_recording,Set Fire To The Rain [Live],2013,2012,Best Pop Solo Performance,Winner
+1.5.8,Pop,Adele,Someone Like You,individual_song_or_recording,Someone Like You,2012,2011,Best Pop Solo Performance,Winner
+1.6.1,Pop,Willie Nelson,They Can't Take That Away From Me,recognized_album_track,Summertime: Willie Nelson Sings Gershwin,2017,2016,Best Traditional Pop Vocal Album,Winner
+1.6.2,Pop,Willie Nelson,They All Laughed,recognized_album_track,Summertime: Willie Nelson Sings Gershwin,2017,2016,Best Traditional Pop Vocal Album,Winner
+1.6.3,Pop,Willie Nelson,But Not For Me,recognized_album_track,Summertime: Willie Nelson Sings Gershwin,2017,2016,Best Traditional Pop Vocal Album,Winner
+1.6.4,Pop,Willie Nelson,Someone To Watch Over Me,recognized_album_track,Summertime: Willie Nelson Sings Gershwin,2017,2016,Best Traditional Pop Vocal Album,Winner
+1.6.5,Pop,Willie Nelson,Love Is Here To Stay,recognized_album_track,Summertime: Willie Nelson Sings Gershwin,2017,2016,Best Traditional Pop Vocal Album,Winner
+1.7.1,Pop,Ed Sheeran,Thinking Out Loud,individual_song_or_recording,Thinking Out Loud,2016,2015,Best Pop Solo Performance,Winner
+1.8.1,Pop,Mark Ronson,Uptown Funk,individual_song_or_recording,Uptown Funk,2016,2015,Best Pop Duo/Group Performance,Winner
+1.9.1,Pop,Taylor Swift,Welcome To New York,recognized_album_track,1989,2016,2015,Album Of The Year,Winner
+1.9.2,Pop,Taylor Swift,Blank Space,individual_song_or_recording,Blank Space,2016,2015,Best Pop Solo Performance,Nominee
+1.9.3,Pop,Taylor Swift,Shake It Off,individual_song_or_recording,Shake It Off,2015,2014,Best Pop Solo Performance,Nominee
+1.9.4,Pop,Taylor Swift,I Wish You Would,recognized_album_track,1989,2016,2015,Album Of The Year,Winner
+1.9.5,Pop,Taylor Swift,You Are In Love,recognized_album_track,1989,2016,2015,Album Of The Year,Winner
+2.1.1,Rock,Chris Cornell,When Bad Does Good,individual_song_or_recording,When Bad Does Good,2019,2018,Best Rock Performance,Winner
+2.10.1,Rock,Megadeth,Dystopia,individual_song_or_recording,Dystopia,2017,2016,Best Metal Performance,Winner
+2.10.2,Rock,Megadeth,Whose Life (Is It Anyways?),individual_song_or_recording,Whose Life (Is It Anyways?),2013,2012,Best Hard Rock/Metal Performance,Nominee
+2.10.3,Rock,Megadeth,Public Enemy No. 1,individual_song_or_recording,Public Enemy No. 1,2012,2011,Best Hard Rock/Metal Performance,Nominee
+2.10.4,Rock,Megadeth,Sudden Death,individual_song_or_recording,Sudden Death,2011,2010,Best Metal Performance,Nominee
+2.10.5,Rock,Megadeth,We'll Be Back,individual_song_or_recording,We'll Be Back,2023,2022,Best Metal Performance,Nominee
+2.11.1,Rock,Cage the Elephant,Mess Around,recognized_album_track,Tell Me I'm Pretty,2017,2016,Best Rock Album,Winner
+2.11.2,Rock,Cage the Elephant,How Are You True,recognized_album_track,Tell Me I'm Pretty,2017,2016,Best Rock Album,Winner
+2.11.3,Rock,Cage the Elephant,Cold Cold Cold,recognized_album_track,Tell Me I'm Pretty,2017,2016,Best Rock Album,Winner
+2.11.4,Rock,Cage the Elephant,That's Right,recognized_album_track,Tell Me I'm Pretty,2017,2016,Best Rock Album,Winner
+2.12.1,Rock,Alabama Shakes,Don't Wanna Fight,individual_song_or_recording,Don't Wanna Fight,2016,2015,Best Rock Performance,Winner
+2.13.1,Rock,Muse,The Handler,recognized_album_track,Drones,2016,2015,Best Rock Album,Winner
+2.13.2,Rock,Muse,Reapers,recognized_album_track,Drones,2016,2015,Best Rock Album,Winner
+2.13.3,Rock,Muse,Dead Inside,recognized_album_track,Drones,2016,2015,Best Rock Album,Winner
+2.13.4,Rock,Muse,Defector,recognized_album_track,Drones,2016,2015,Best Rock Album,Winner
+2.14.1,Rock,Beck,Heart Is A Drum,recognized_album_track,Morning Phase,2015,2014,Album Of The Year,Winner
+2.14.2,Rock,Beck,Blue Moon,individual_song_or_recording,Blue Moon,2015,2014,Best Rock Performance,Nominee
+2.14.3,Rock,Beck,Blackbird Chain,recognized_album_track,Morning Phase,2015,2014,Album Of The Year,Winner
+2.15.1,Rock,Imagine Dragons,Radioactive,individual_song_or_recording,Radioactive,2014,2013,Best Rock Performance,Winner
+2.16.1,Rock,Black Sabbath,God Is Dead,individual_song_or_recording,God Is Dead?,2014,2013,Best Metal Performance,Winner
+2.17.1,Rock,Led Zeppelin,Kashmir,individual_song_or_recording,Kashmir,2014,2013,Best Rock Performance,Nominee
+2.18.1,Rock,Halestorm,Love Bites (So Do I),individual_song_or_recording,Love Bites (So Do I),2013,2012,Best Hard Rock/Metal Performance,Winner
+2.19.1,Rock,The Black Keys,Lonely Boy,individual_song_or_recording,Lonely Boy,2013,2012,Best Rock Performance,Winner
+2.19.2,Rock,The Black Keys,Dead And Gone,recognized_album_track,El Camino,2013,2012,Best Rock Album,Winner
+2.19.3,Rock,The Black Keys,Gold On The Ceiling,recognized_album_track,El Camino,2013,2012,Best Rock Album,Winner
+2.19.4,Rock,The Black Keys,Run Right Back,recognized_album_track,El Camino,2013,2012,Best Rock Album,Winner
+2.19.5,Rock,The Black Keys,Sister,recognized_album_track,El Camino,2013,2012,Best Rock Album,Winner
+2.2.1,Rock,High on Fire,Electric Messiah,individual_song_or_recording,Electric Messiah,2019,2018,Best Metal Performance,Winner
+2.20.1,Rock,Gary Clark Jr.,This Land,individual_song_or_recording,This Land,2020,2019,Best Rock Performance,Winner
+2.21.1,Rock,Brittany Howard,History Repeats,individual_song_or_recording,History Repeats,2020,2019,Best Rock Performance,Nominee
+2.21.2,Rock,Brittany Howard,Stay High,individual_song_or_recording,Stay High,2021,2020,Best Rock Song,Winner
+2.22,Rock,Vampire Weekend,Harmony Hall,individual_song_or_recording,Harmony Hall,2020,2019,Best Rock Song,Nominee
+2.23.1,Rock,The 1975,Give Yourself A Try,individual_song_or_recording,Give Yourself A Try,2020,2019,Best Rock Song,Nominee
+2.24.1,Rock,Tool,Fear Inoculum,individual_song_or_recording,Fear Inoculum,2020,2019,Best Rock Song,Nominee
+2.25.1,Rock,Phoebe Bridgers,Kyoto,individual_song_or_recording,Kyoto,2021,2020,Best Rock Performance,Nominee
+2.26.1,Rock,Tame Impala,Lost in Yesterday,individual_song_or_recording,Lost In Yesterday,2021,2020,Best Rock Song,Nominee
+2.27.1,Rock,Big Thief,Not,individual_song_or_recording,Not,2021,2020,Best Rock Performance,Nominee
+2.28.1,Rock,Fiona Apple,Shameika,individual_song_or_recording,Shameika,2021,2020,Best Rock Performance,Winner
+2.29.1,Rock,Foo Fighters,Waiting On A War,individual_song_or_recording,Waiting On A War,2022,2021,Best Rock Song,Winner
+2.29.2,Rock,Foo Fighters,Rescued,individual_song_or_recording,Rescued,2024,2023,Best Rock Performance,Nominee
+2.3.1,Rock,St. Vincent,Masseduction,individual_song_or_recording,Masseduction,2019,2018,Best Rock Song,Winner
+2.30.1,Rock,Weezer,All My Favorite Songs,individual_song_or_recording,All My Favorite Songs,2022,2021,Best Rock Song,Nominee
+2.31.1,Rock,Kings of Leon,The Bandit,individual_song_or_recording,The Bandit,2022,2021,Best Rock Song,Nominee
+2.32.1,Rock,Mammoth WVH,Distance,individual_song_or_recording,Distance,2022,2021,Best Rock Song,Nominee
+2.33.1,Rock,Paul McCartney,Find My Way,individual_song_or_recording,Find My Way,2022,2021,Best Rock Song,Nominee
+2.34.1,Rock,Brandi Carlile,Broken Horses,individual_song_or_recording,Broken Horses,2023,2022,Best Rock Performance,Winner
+2.35.1,Rock,Ozzy Osbourne,Patient Number 9,individual_song_or_recording,Patient Number 9,2023,2022,Best Rock Performance,Nominee
+2.36.1,Rock,The War on Drugs,Harmonia's Dream,individual_song_or_recording,Harmonia's Dream,2023,2022,Best Rock Song,Nominee
+2.37.1,Rock,Turnstile,BLACKOUT,individual_song_or_recording,Blackout,2023,2022,Best Metal Performance,Nominee
+2.38.1,Rock,Red Hot Chili Peppers,Black Summer,individual_song_or_recording,Black Summer,2023,2022,Best Rock Song,Nominee
+2.39.1,Rock,boygenius,Not Strong Enough,individual_song_or_recording,Not Strong Enough,2024,2023,Best Rock Performance,Winner
+2.4.1,Rock,Greta Van Fleet,Safari Song,recognized_album_track,From The Fires,2019,2018,Best Rock Album,Winner
+2.4.2,Rock,Greta Van Fleet,Edge Of Darkness,recognized_album_track,From The Fires,2019,2018,Best Rock Album,Winner
+2.4.3,Rock,Greta Van Fleet,Flower Power,recognized_album_track,From The Fires,2019,2018,Best Rock Album,Winner
+2.4.4,Rock,Greta Van Fleet,A Change Is Gonna Come,recognized_album_track,From The Fires,2019,2018,Best Rock Album,Winner
+2.4.5,Rock,Greta Van Fleet,Meet On The Ledge,recognized_album_track,From The Fires,2019,2018,Best Rock Album,Winner
+2.4.6,Rock,Greta Van Fleet,Black Smoke Rising,individual_song_or_recording,Black Smoke Rising,2019,2018,Best Rock Song,Nominee
+2.4.7,Rock,Greta Van Fleet,Talk On The Street,recognized_album_track,From The Fires,2019,2018,Best Rock Album,Winner
+2.40.1,Rock,Queens of the Stone Age,Emotion Sickness,individual_song_or_recording,Emotion Sickness,2024,2023,Best Rock Song,Nominee
+2.41.1,Rock,Olivia Rodrigo,ballad of a homeschooled girl,individual_song_or_recording,Ballad Of A Homeschooled Girl,2024,2023,Best Rock Song,Nominee
+2.42.1,Rock,The Beatles,Now and then,individual_song_or_recording,Now And Then,2025,2024,Best Rock Performance,Winner
+2.43.1,Rock,The Black Keys,Beautiful People (Stay High),individual_song_or_recording,Beautiful People (Stay High),2025,2024,Best Rock Performance,Nominee
+2.44.1,Rock,Green Day,The American Dream is killing me,individual_song_or_recording,The American Dream Is Killing Me,2025,2024,Best Rock Performance,Nominee
+2.45.1,Rock,IDLES,Gift Horse,individual_song_or_recording,Gift Horse,2025,2024,Best Rock Performance,Nominee
+2.46.1,Rock,Pearl Jam,Dark Matter,individual_song_or_recording,Dark Matter,2025,2024,Best Rock Performance,Nominee
+2.47.1,Rock,St. Vincent,Broken Man,individual_song_or_recording,Broken Man,2025,2024,Best Rock Song,Winner
+2.5.1,Rock,Leonard Cohen,You Want It Darker,individual_song_or_recording,You Want It Darker,2018,2017,Best Rock Performance,Winner
+2.5.2,Rock,Leonard Cohen,Steer Your Way,individual_song_or_recording,Steer Your Way,2018,2017,Best American Roots Performance,Nominee
+2.5.3,Rock,Chris Cornell,The Promise,individual_song_or_recording,The Promise,2018,2017,Best Rock Performance,Nominee
+2.5.4,Rock,KALEO,No Good,individual_song_or_recording,No Good,2018,2017,Best Rock Performance,Nominee
+2.6.1,Rock,Mastodon,Sultan's Curse,individual_song_or_recording,Sultan’s Curse,2018,2017,Best Metal Performance,Winner
+2.7.1,Rock,Foo Fighters,Run,individual_song_or_recording,Run,2018,2017,Best Rock Song,Winner
+2.8.1,Rock,The War on Drugs,Strangest Thing,recognized_album_track,A Deeper Understanding,2018,2017,Best Rock Album,Winner
+2.8.2,Rock,The War on Drugs,Thinking Of A Place,recognized_album_track,A Deeper Understanding,2018,2017,Best Rock Album,Winner
+2.8.3,Rock,The War on Drugs,In Chains,recognized_album_track,A Deeper Understanding,2018,2017,Best Rock Album,Winner
+2.8.4,Rock,The War on Drugs,Knocked Down,recognized_album_track,A Deeper Understanding,2018,2017,Best Rock Album,Winner
+2.9.1,Rock,David Bowie,Girl Loves Me,recognized_album_track,Blackstar,2017,2016,Best Alternative Music Album,Winner
+2.9.2,Rock,David Bowie,I Can't Give Everything Away,recognized_album_track,Blackstar,2017,2016,Best Alternative Music Album,Winner
+2.9.3,Rock,David Bowie,Blackstar,individual_song_or_recording,Blackstar,2017,2016,Best Rock Performance,Winner
+3.1.1,Gospel,Tori Kelly,Never Alone,individual_song_or_recording,Never Alone,2019,2018,Best Gospel Performance/Song,Winner
+3.1.2,Gospel,Tori Kelly,Masterpiece,recognized_album_track,Hiding Place,2019,2018,Best Gospel Album,Winner
+3.1.3,Gospel,Tori Kelly,Help Us To Love,recognized_album_track,Hiding Place,2019,2018,Best Gospel Album,Winner
+3.1.4,Gospel,Tori Kelly,Sunday,recognized_album_track,Hiding Place,2019,2018,Best Gospel Album,Winner
+3.1.5,Gospel,Tori Kelly,Psalm 42,recognized_album_track,Hiding Place,2019,2018,Best Gospel Album,Winner
+3.10.1,Gospel,Smokie Norful,No Greater Love,individual_song_or_recording,No Greater Love,2015,2014,Best Gospel Performance/Song,Winner
+3.11.1,Gospel,Lecrae,Messengers,individual_song_or_recording,Messengers,2015,2014,Best Contemporary Christian Music Performance/Song,Winner
+3.11.2,Gospel,Lecrae,Violence,recognized_album_track,Gravity,2013,2012,Best Gospel Album,Winner
+3.11.3,Gospel,Lecrae,Gravity,recognized_album_track,Gravity,2013,2012,Best Gospel Album,Winner
+3.12.1,Gospel,Erica Campbell,Help,individual_song_or_recording,Help,2015,2014,Best Gospel Performance/Song,Nominee
+3.12.2,Gospel,Erica Campbell,All I Need Is You,recognized_album_track,Help,2015,2014,Best Gospel Album,Winner
+3.12.3,Gospel,Erica Campbell,Feel Alright (Blessed),individual_song_or_recording,Feel Alright (Blessed),2024,2023,Best Gospel Performance/Song,Nominee
+3.12.4,Gospel,Erica Campbell,Positive,individual_song_or_recording,Positive,2023,2022,Best Gospel Performance/Song,Nominee
+3.13.1,Gospel,for KING & COUNTRY,Long Live,recognized_album_track,Run Wild. Live Free. Love Strong.,2015,2014,Best Contemporary Christian Music Album,Winner
+3.14.1,Gospel,Mandisa,Overcomer,individual_song_or_recording,Overcomer,2014,2013,Best Contemporary Christian Music Song,Winner
+3.14.2,Gospel,Mandisa,Back To You,recognized_album_track,Overcomer,2014,2013,Best Contemporary Christian Music Album,Winner
+3.14.3,Gospel,Mandisa,Where You Begin,recognized_album_track,Overcomer,2014,2013,Best Contemporary Christian Music Album,Winner
+3.14.4,Gospel,Mandisa,Praying For You,recognized_album_track,Overcomer,2014,2013,Best Contemporary Christian Music Album,Winner
+3.15.1,Gospel,Tye Tribbett,Greater Than,recognized_album_track,Greater Than [Live],2014,2013,Best Gospel Album,Winner
+3.15.2,Gospel,Tye Tribbett,You Are Everything,recognized_album_track,Greater Than [Live],2014,2013,Best Gospel Album,Winner
+3.15.3,Gospel,Tye Tribbett,Stayed On You,recognized_album_track,Greater Than [Live],2014,2013,Best Gospel Album,Winner
+3.15.4,Gospel,Tye Tribbett,If He Did It Before (Same God),individual_song_or_recording,If He Did It Before... Same God [Live],2014,2013,Best Gospel Song,Winner
+3.15.5,Gospel,Tye Tribbett,Get Up,individual_song_or_recording,Get Up,2023,2022,Best Gospel Performance/Song,Nominee
+3.16.1,Gospel,Mary Mary,Go Get It,individual_song_or_recording,Go Get It,2013,2012,Best Gospel Song,Winner
+3.17.1,Gospel,Israel & New Breed,Your Presence Is Heaven,individual_song_or_recording,Your Presence Is Heaven,2013,2012,Best Contemporary Christian Music Song,Winner
+3.18.1,Gospel,Melvin Crispell III,God Is,individual_song_or_recording,God Is,2024,2023,Best Gospel Performance/Song,Nominee
+3.18.2,Gospel,Melvin Crispell III,WONDERFUL IS YOUR NAME,individual_song_or_recording,Wonderful Is Your Name,2021,2020,Best Gospel Performance/Song,Nominee
+3.19.1,Gospel,Stanley Brown,"God Is Good (feat.KarenClark Sheard, Hezekiah Walker& Kierra Sheard)",individual_song_or_recording,God Is Good,2024,2023,Best Gospel Performance/Song,Nominee
+3.2.1,Gospel,Lauren Daigle,You Say,individual_song_or_recording,You Say,2019,2018,Best Contemporary Christian Music Performance/Song,Winner
+3.2.2,Gospel,Lauren Daigle,Still Rolling Stones,recognized_album_track,Look Up Child,2019,2018,Best Contemporary Christian Music Album,Winner
+3.2.3,Gospel,Lauren Daigle,Rescue,recognized_album_track,Look Up Child,2019,2018,Best Contemporary Christian Music Album,Winner
+3.2.4,Gospel,Lauren Daigle,This Girl,recognized_album_track,Look Up Child,2019,2018,Best Contemporary Christian Music Album,Winner
+3.20.1,Gospel,Zacardi Cortez,Lord Do It for Me (Live),individual_song_or_recording,Lord Do It For Me (Live),2024,2023,Best Gospel Performance/Song,Nominee
+3.21.1,Gospel,DOE,When I Pray,individual_song_or_recording,When I Pray,2023,2022,Best Gospel Performance/Song,Nominee
+3.22.1,Gospel,PJ Morton,"The Better Benediction (feat.Zacardi Cortez, Gene Moore,Samoht, Tim Rogers & Darrel'MusiqCity' Walls)",individual_song_or_recording,The Better Benediction,2023,2022,Best Gospel Performance/Song,Nominee
+3.23.1,Gospel,Dante Bowe,Voice of God (feat. Steffany Gretzinger & Chandler Moore),individual_song_or_recording,Voice Of God,2022,2021,Best Gospel Performance/Song,Nominee
+3.24.1,Gospel,Ricky Dillard,Release (feat. TIFF JOY)(live),individual_song_or_recording,Release (Live),2021,2020,Best Gospel Performance/Song,Nominee
+3.24.2,Gospel,Dante Bowe,Joyful,individual_song_or_recording,Joyful,2022,2021,Best Gospel Performance/Song,Nominee
+3.25.1,Gospel,Rodney Jerkins,Come Together,individual_song_or_recording,Come Together,2021,2020,Best Gospel Performance/Song,Nominee
+3.26.1,Gospel,Anthony Brown & group therAPy,Help,individual_song_or_recording,Help,2022,2021,Best Gospel Performance/Song,Nominee
+3.27.1,Gospel,Elevation Worship,Wait on You,individual_song_or_recording,Wait On You,2022,2021,Best Gospel Performance/Song,Nominee
+3.28.1,Gospel,Gloria Gaynor,Talkin' 'Bout Jesus (feat. Yolanda Adams),individual_song_or_recording,Talkin' 'Bout Jesus,2020,2019,Best Gospel Performance/Song,Nominee
+3.29.1,Gospel,Travis Greene,See the Light (feat. Jekalyn Carr),individual_song_or_recording,See The Light,2020,2019,Best Gospel Performance/Song,Nominee
+3.3.1,Gospel,CeCe Winans,Never Have To Be Alone,individual_song_or_recording,Never Have To Be Alone,2018,2017,Best Gospel Performance/Song,Winner
+3.3.2,Gospel,CeCe Winans,Let Them Fall In Love,recognized_album_track,Let Them Fall In Love,2018,2017,Best Gospel Album,Winner
+3.3.3,Gospel,CeCe Winans,Peace From God,recognized_album_track,Let Them Fall In Love,2018,2017,Best Gospel Album,Winner
+3.3.4,Gospel,CeCe Winans,He's Never Failed Me Yet,recognized_album_track,Let Them Fall In Love,2018,2017,Best Gospel Album,Winner
+3.30.1,Gospel,Koryn Hawthorne,Speak the Name (feat. Natalie Grant),individual_song_or_recording,Speak The Name,2020,2019,Best Gospel Performance/Song,Nominee
+3.31.1,Gospel,Tasha Cobbs Leonard,This Is A Move (Live),individual_song_or_recording,This Is A Move (Live),2020,2019,Best Gospel Performance/Song,Nominee
+3.32.1,Gospel,Jonathan McReynolds,Movin' On,individual_song_or_recording,Movin' On,2021,2020,Best Gospel Performance/Song,Winner
+3.33.1,Gospel,CeCe Winans,Never Lost,individual_song_or_recording,Never Lost,2022,2021,Best Gospel Performance/Song,Winner
+3.34.1,Gospel,Yolanda Adams,CHurch Doors,individual_song_or_recording,Church Doors,2025,2024,Best Gospel Performance/Song,Nominee
+3.35.1,Gospel,CeCe Winans,Lord and Friend,recognized_album_track,More Than This,2025,2024,Best Gospel Album,Winner
+3.35.2,Gospel,CeCe Winans,Be Still and know,recognized_album_track,More Than This,2025,2024,Best Gospel Album,Winner
+3.4.1,Gospel,Tamela Mann,God Provides,individual_song_or_recording,God Provides,2017,2016,Best Gospel Performance/Song,Winner
+3.5.1,Gospel,Hillary Scott & The Scott Family,Thy Will,individual_song_or_recording,Thy Will,2017,2016,Best Contemporary Christian Music Performance/Song,Winner
+3.5.2,Gospel,Hillary Scott & The Scott Family,Sheltered In The Arms Of God,recognized_album_track,Love Remains,2017,2016,Best Contemporary Christian Music Album,Winner
+3.5.3,Gospel,Hillary Scott & The Scott Family,The Faithful Love Of Jesus,recognized_album_track,Love Remains,2017,2016,Best Contemporary Christian Music Album,Winner
+3.5.4,Gospel,Hillary Scott & The Scott Family,Untitled Hymn (Come To Jesus),recognized_album_track,Love Remains,2017,2016,Best Contemporary Christian Music Album,Winner
+3.6.1,Gospel,Kirk Franklin,Losing My Religion,recognized_album_track,Losing My Religion,2017,2016,Best Gospel Album,Winner
+3.6.2,Gospel,Kirk Franklin,Road Trip,recognized_album_track,Losing My Religion,2017,2016,Best Gospel Album,Winner
+3.6.3,Gospel,Kirk Franklin,Pray For Me,recognized_album_track,Losing My Religion,2017,2016,Best Gospel Album,Winner
+3.6.4,Gospel,Kirk Franklin,No Sleep Tonight,recognized_album_track,Losing My Religion,2017,2016,Best Gospel Album,Winner
+3.6.5,Gospel,Kirk Franklin,My World Needs You,recognized_album_track,Losing My Religion,2017,2016,Best Gospel Album,Winner
+3.6.6,Gospel,Kirk Franklin,Miracles,recognized_album_track,Losing My Religion,2017,2016,Best Gospel Album,Winner
+3.6.7,Gospel,Kirk Franklin,Wanna Be Happy,individual_song_or_recording,Wanna Be Happy?,2016,2015,Best Gospel Performance/Song,Winner
+3.6.8,Gospel,Kirk Franklin,All Things,individual_song_or_recording,All Things,2024,2023,Best Gospel Performance/Song,Winner
+3.6.9,Gospel,Kirk Franklin,Love Theory,individual_song_or_recording,Love Theory,2020,2019,Best Gospel Performance/Song,Winner
+3.7.1,Gospel,Joey + Rory,"Take My Hand, Precious Lord",recognized_album_track,Hymns,2017,2016,Best Roots Gospel Album,Winner
+3.7.2,Gospel,Joey + Rory,Jesus Paid It All,recognized_album_track,Hymns,2017,2016,Best Roots Gospel Album,Winner
+3.7.3,Gospel,Joey + Rory,How Great Thou Art,recognized_album_track,Hymns,2017,2016,Best Roots Gospel Album,Winner
+3.8.1,Gospel,Francesca Battistelli,Holy Spirit,individual_song_or_recording,Holy Spirit,2016,2015,Best Contemporary Christian Music Performance/Song,Winner
+3.9.1,Gospel,TobyMac,This Is Not A Test,recognized_album_track,This Is Not A Test,2016,2015,Best Contemporary Christian Music Album,Winner
+3.9.2,Gospel,TobyMac,Lights Shine Bright,recognized_album_track,This Is Not A Test,2016,2015,Best Contemporary Christian Music Album,Winner
+3.9.3,Gospel,TobyMac,Lift You Up,recognized_album_track,This Is Not A Test,2016,2015,Best Contemporary Christian Music Album,Winner
+3.9.4,Gospel,TobyMac,Love Broke Thru,recognized_album_track,This Is Not A Test,2016,2015,Best Contemporary Christian Music Album,Winner
+3.9.5,Gospel,TobyMac,Til The Day I Die,recognized_album_track,This Is Not A Test,2016,2015,Best Contemporary Christian Music Album,Winner
+3.9.6,Gospel,TobyMac,Eye On It,recognized_album_track,Eye On It,2013,2012,Best Contemporary Christian Music Album,Winner
+3.9.7,Gospel,TobyMac,Lose Myself,recognized_album_track,Eye On It,2013,2012,Best Contemporary Christian Music Album,Winner
+4.1.1,R&B,Daniel Caesar,Best Part,individual_song_or_recording,Best Part,2019,2018,Best R&B Solo Performance,Winner
+4.10.1,R&B,Maxwell,Lake By The Ocean,individual_song_or_recording,Lake By The Ocean,2017,2016,Best R&B Song,Winner
+4.11.1,R&B,Beyoncé,Pray You Catch Me,recognized_album_track,Lemonade,2017,2016,Best Urban Contemporary Album,Winner
+4.11.2,R&B,Beyoncé,Don't Hurt Yourself,individual_song_or_recording,Don't Hurt Yourself,2017,2016,Best Rock Performance,Nominee
+4.11.3,R&B,Beyoncé,Sandcastles,recognized_album_track,Lemonade,2017,2016,Best Urban Contemporary Album,Winner
+4.11.4,R&B,Beyoncé,Love Drought,recognized_album_track,Lemonade,2017,2016,Best Urban Contemporary Album,Winner
+4.11.5,R&B,Beyoncé,Daddy Lessons,recognized_album_track,Lemonade,2017,2016,Best Urban Contemporary Album,Winner
+4.11.6,R&B,Beyoncé,Drunk In Love,individual_song_or_recording,Drunk In Love,2015,2014,Best R&B Solo Performance,Winner
+4.11.7,R&B,Beyoncé,CUFF IT,individual_song_or_recording,CUFF IT,2023,2022,Best R&B Song,Winner
+4.11.8,R&B,Beyoncé,BLACK PARADE,individual_song_or_recording,Black Parade,2021,2020,Best R&B Solo Performance,Winner
+4.12.1,R&B,D'Angelo and The Vanguard,Really Love,individual_song_or_recording,Really Love,2016,2015,Best R&B Song,Winner
+4.12.2,R&B,D'Angelo and The Vanguard,Ain't That Easy,recognized_album_track,Black Messiah,2016,2015,Best R&B Album,Winner
+4.12.3,R&B,D'Angelo and The Vanguard,Betray My Heart,recognized_album_track,Black Messiah,2016,2015,Best R&B Album,Winner
+4.12.4,R&B,D'Angelo and The Vanguard,The Charade,recognized_album_track,Black Messiah,2016,2015,Best R&B Album,Winner
+4.12.51000,R&B,D'Angelo and The Vanguard,1000 Deaths,recognized_album_track,Black Messiah,2016,2015,Best R&B Album,Winner
+4.13.1,R&B,Robert Glasper Experiment,Jesus Children,individual_song_or_recording,Jesus Children,2015,2014,Best Traditional R&B Performance,Winner
+4.14.1,R&B,Toni Braxton,Sweat,recognized_album_track,"Love, Marriage & Divorce",2015,2014,Best R&B Album,Winner
+4.14.2,R&B,Toni Braxton,Heart Attack,recognized_album_track,"Love, Marriage & Divorce",2015,2014,Best R&B Album,Winner
+4.14.3,R&B,Toni Braxton,Take It Back,recognized_album_track,"Love, Marriage & Divorce",2015,2014,Best R&B Album,Winner
+4.15.1,R&B,Justin Timberlake,Pusher Love Girl,individual_song_or_recording,Pusher Love Girl,2014,2013,Best R&B Song,Winner
+4.16.1,R&B,Rihanna,Phresh Out The Runway,recognized_album_track,Unapologetic,2014,2013,Best Urban Contemporary Album,Winner
+4.16.2,R&B,Rihanna,Diamonds,recognized_album_track,Unapologetic,2014,2013,Best Urban Contemporary Album,Winner
+4.16.3,R&B,Rihanna,Nobody's Business,recognized_album_track,Unapologetic,2014,2013,Best Urban Contemporary Album,Winner
+4.17.1,R&B,Usher,Climax,individual_song_or_recording,Climax,2013,2012,Best R&B Solo Performance,Winner
+4.17.2,R&B,Usher,There Goes My Baby,individual_song_or_recording,There Goes My Baby,2011,2010,Best Male R&B Vocal Performance,Winner
+4.18.1,R&B,Miguel,Adorn,individual_song_or_recording,Adorn,2013,2012,Best R&B Song,Winner
+4.19.1,R&B,Frank Ocean,Sweet Life,recognized_album_track,Channel Orange,2013,2012,Best Urban Contemporary Album,Winner
+4.19.2,R&B,Frank Ocean,Not Just Money,recognized_album_track,Channel Orange,2013,2012,Best Urban Contemporary Album,Winner
+4.19.3,R&B,Frank Ocean,Bad Religion,recognized_album_track,Channel Orange,2013,2012,Best Urban Contemporary Album,Winner
+4.19.4,R&B,Frank Ocean,Super Rich Kids,recognized_album_track,Channel Orange,2013,2012,Best Urban Contemporary Album,Winner
+4.19.5,R&B,Frank Ocean,Lost,recognized_album_track,Channel Orange,2013,2012,Best Urban Contemporary Album,Winner
+4.2.1,R&B,Leon Bridges,Bet Ain't Worth the Hand,individual_song_or_recording,Bet Ain't Worth The Hand,2019,2018,Best Traditional R&B Performance,Winner
+4.20.1,R&B,SZA,Snooze,individual_song_or_recording,Snooze,2024,2023,Best R&B Song,Winner
+4.20.2,R&B,SZA,Good Days,individual_song_or_recording,Good Days,2022,2021,Best R&B Song,Nominee
+4.21.1,R&B,Victoria Monét,On My Mama,individual_song_or_recording,On My Mama,2024,2023,Record Of The Year,Nominee
+4.22.1,R&B,Coco Jones,ICU,individual_song_or_recording,ICU,2024,2023,Best R&B Solo Performance,Winner
+4.23.1,R&B,Robert Glasper,Back To Love,individual_song_or_recording,Back To Love,2024,2023,Best R&B Solo Performance,Nominee
+4.23.2,R&B,Robert Glasper,Better Than I Imagined (feat. Her & Meshell Ndegeocello),individual_song_or_recording,Better Than I Imagined,2021,2020,Best R&B Song,Winner
+4.24.1,R&B,Halle,Angel,individual_song_or_recording,Angel,2024,2023,Best R&B Song,Nominee
+4.25.1,R&B,Mary J. Blige,Good Morning Gorgeous,individual_song_or_recording,Good Morning Gorgeous,2023,2022,Best R&B Song,Nominee
+4.26.1,R&B,Muni Long,Hrs & Hrs,individual_song_or_recording,Hrs & Hrs,2023,2022,Best R&B Solo Performance,Winner
+4.27.1,R&B,Jazmine Sullivan,Hurt Me So Good,individual_song_or_recording,Hurt Me So Good,2023,2022,Best R&B Solo Performance,Nominee
+4.27.2,R&B,Jazmine Sullivan,Pick Up Your Feelings,individual_song_or_recording,Pick Up Your Feelings,2022,2021,Best R&B Solo Performance,Winner
+4.28.1,R&B,GIVĒON,HEARTBREAK ANNIVERSARY,individual_song_or_recording,Heartbreak Anniversary,2022,2021,Best R&B Song,Nominee
+4.29.1,R&B,Silk Sonic,Leave The Door Open,individual_song_or_recording,Leave The Door Open,2022,2021,Best R&B Solo Performance,Winner
+4.3.1,R&B,PJ Morton,How Deep Is Your Love,individual_song_or_recording,How Deep Is Your Love,2019,2018,Best Traditional R&B Performance,Winner
+4.30.1,R&B,Skip Marley,Slow Down,recognized_album_track,Higher Place,2021,2020,Best Reggae Album,Nominee
+4.31.1,R&B,Tiana Major9,Collide,individual_song_or_recording,Collide,2021,2020,Best R&B Song,Nominee
+4.32.1,R&B,Emily King,Look at Me Now,individual_song_or_recording,Look At Me Now,2020,2019,Best R&B Song,Nominee
+4.33.1,R&B,PJ Morton,Please Don't Walk Away,individual_song_or_recording,Please Don't Walk Away,2023,2022,Best R&B Song,Nominee
+4.33.2,R&B,PJ Morton,Say So (feat. Jojo & JoJo),individual_song_or_recording,Say So,2020,2019,Best R&B Song,Winner
+4.34.1,R&B,Lucky Daye,Roll Some Mo,individual_song_or_recording,Roll Some Mo,2020,2019,Best R&B Song,Nominee
+4.35.1,R&B,Chris Brown,No Guidance (feat. Drake),individual_song_or_recording,No Guidance,2020,2019,Best R&B Song,Nominee
+4.36.1,R&B,Kehlani,After Hours,individual_song_or_recording,After Hours,2025,2024,Best R&B Song,Nominee
+4.37.1,R&B,Tems,Burning,individual_song_or_recording,Burning,2025,2024,Best R&B Song,Nominee
+4.38.1,R&B,Coco Jones,Here we go(uh oh),individual_song_or_recording,Here We Go (Uh Oh),2025,2024,Best R&B Solo Performance,Nominee
+4.39.1,R&B,Muni Long,Ruined me,individual_song_or_recording,Ruined Me,2025,2024,Best R&B Song,Nominee
+4.4.1,R&B,Ella Mai,Boo'd Up,individual_song_or_recording,Boo'd Up,2019,2018,Best R&B Song,Winner
+4.40.1,R&B,SZA,Saturn,individual_song_or_recording,Saturn,2025,2024,Best R&B Song,Winner
+4.41.1,R&B,Chris Brown,Feel something,recognized_album_track,11:11 (Deluxe),2025,2024,Best R&B Album,Winner
+4.5.1,R&B,The Carters,Nice,recognized_album_track,Everything Is Love,2019,2018,Best Urban Contemporary Album,Winner
+4.5.2,R&B,The Carters,Summer,individual_song_or_recording,Summer,2019,2018,Best R&B Solo Performance,Nominee
+4.5.3,R&B,The Carters,APESHIT,recognized_album_track,Everything Is Love,2019,2018,Best Urban Contemporary Album,Winner
+4.5.4,R&B,The Carters,Black Effect,recognized_album_track,Everything Is Love,2019,2018,Best Urban Contemporary Album,Winner
+4.6.1,R&B,H.E.R.,Let Me In,recognized_album_track,H.E.R.,2019,2018,Best R&B Album,Winner
+4.6.2,R&B,H.E.R.,Facts,recognized_album_track,H.E.R.,2019,2018,Best R&B Album,Winner
+4.6.3,R&B,H.E.R.,Rather Be,recognized_album_track,H.E.R.,2019,2018,Best R&B Album,Winner
+4.6.4,R&B,H.E.R.,Still Down,recognized_album_track,H.E.R.,2019,2018,Best R&B Album,Winner
+4.6.5,R&B,H.E.R.,Gone Away,recognized_album_track,H.E.R.,2019,2018,Best R&B Album,Winner
+4.6.6,R&B,H.E.R.,Losing,recognized_album_track,H.E.R.,2019,2018,Best R&B Album,Winner
+4.6.7,R&B,H.E.R.,Damage,individual_song_or_recording,Damage,2022,2021,Best R&B Solo Performance,Nominee
+4.6.8,R&B,H.E.R.,Could've Been (feat. Bryson Tiller),individual_song_or_recording,Could've Been,2020,2019,Best R&B Solo Performance,Nominee
+4.7.1,R&B,Bruno Mars,That's What I Like,individual_song_or_recording,That's What I Like,2018,2017,Best R&B Solo Performance,Winner
+4.7.2,R&B,Bruno Mars,24K Magic,individual_song_or_recording,24K Magic,2018,2017,Record Of The Year,Winner
+4.7.3,R&B,Bruno Mars,Straight Up & Down,recognized_album_track,24K Magic,2018,2017,Album Of The Year,Winner
+4.7.4,R&B,Bruno Mars,Calling All My Lovelies,recognized_album_track,24K Magic,2018,2017,Album Of The Year,Winner
+4.8.1,R&B,The Weeknd,Starboy,recognized_album_track,Starboy,2018,2017,Best Urban Contemporary Album,Winner
+4.8.2,R&B,The Weeknd,Party Monster,recognized_album_track,Starboy,2018,2017,Best Urban Contemporary Album,Winner
+4.8.3,R&B,The Weeknd,False Alarm,recognized_album_track,Starboy,2018,2017,Best Urban Contemporary Album,Winner
+4.8.4,R&B,The Weeknd,Six Feet Under,recognized_album_track,Starboy,2018,2017,Best Urban Contemporary Album,Winner
+4.8.5,R&B,The Weeknd,Earned It,individual_song_or_recording,Earned It (Fifty Shades Of Grey),2016,2015,Best R&B Solo Performance,Winner
+4.8.6,R&B,The Weeknd,Tell Your Friends,recognized_album_track,Beauty Behind The Madness,2016,2015,Best Urban Contemporary Album,Winner
+4.8.7,R&B,The Weeknd,Acquainted,recognized_album_track,Beauty Behind The Madness,2016,2015,Best Urban Contemporary Album,Winner
+4.8.8,R&B,The Weeknd,Dark Times,recognized_album_track,Beauty Behind The Madness,2016,2015,Best Urban Contemporary Album,Winner
+4.9.1,R&B,Solange,Cranes In The Sky,individual_song_or_recording,Cranes In The Sky,2017,2016,Best R&B Solo Performance,Winner
+5.1.1,Rap,Jay Rock,King's Dead,individual_song_or_recording,King's Dead,2019,2018,Best Rap Performance,Winner
+5.1.2,Rap,Kendrick Lamar,I,individual_song_or_recording,I,2015,2014,Best Rap Performance,Winner
+5.10.1,Rap,Macklemore,Thrift Shop,individual_song_or_recording,Thrift Shop,2014,2013,Best Rap Performance,Winner
+5.10.2,Rap,Macklemore,Make The Money,recognized_album_track,The Heist,2014,2013,Best Rap Album,Winner
+5.10.3,Rap,Macklemore,Castle,recognized_album_track,The Heist,2014,2013,Best Rap Album,Winner
+5.10.4,Rap,Macklemore,Starting Over,recognized_album_track,The Heist,2014,2013,Best Rap Album,Winner
+5.11.1,Rap,JAY-Z,Holy Grail,individual_song_or_recording,Holy Grail,2014,2013,Best Rap/Sung Collaboration,Winner
+5.11.2,Rap,JAY-Z,Niggas In Paris,individual_song_or_recording,N****s In Paris,2013,2012,Best Rap Performance,Winner
+5.11.3,Rap,JAY-Z,No Church In The Wild,individual_song_or_recording,No Church In The Wild,2013,2012,Best Rap/Sung Collaboration,Winner
+5.11.4,Rap,JAY-Z,On To The Next One,individual_song_or_recording,On To The Next One,2011,2010,Best Rap Performance By A Duo Or Group,Winner
+5.11.5,Rap,JAY-Z,Empire State Of Mind,individual_song_or_recording,Empire State Of Mind,2011,2010,Best Rap Song,Winner
+5.12.1,Rap,Kanye West,All Of The Lights,individual_song_or_recording,All Of The Lights,2012,2011,Best Rap Song,Winner
+5.12.2,Rap,Kanye West,Hell Of A Life,recognized_album_track,My Beautiful Dark Twisted Fantasy,2012,2011,Best Rap Album,Winner
+5.13.1,Rap,Killer Mike,SCIENTISTS & ENGINEERS,individual_song_or_recording,SCIENTISTS & ENGINEERS,2024,2023,Best Rap Performance,Winner
+5.14.1,Rap,Drake,Rich Flex,individual_song_or_recording,Rich Flex,2024,2023,Best Rap Performance,Nominee
+5.15.1,Rap,Lil Uzi Vert,Just Wanna Rock,individual_song_or_recording,Just Wanna Rock,2024,2023,Best Rap Song,Nominee
+5.16.1,Rap,Doja Cat,Attention,individual_song_or_recording,Attention,2024,2023,Best Melodic Rap Performance,Nominee
+5.17.1,Rap,Kendrick Lamar,The Heart Part 5,individual_song_or_recording,The Heart Part 5,2023,2022,Best Rap Performance,Winner
+5.18.1,Rap,Future,WAIT FOR U,individual_song_or_recording,WAIT FOR U,2023,2022,Best Melodic Rap Performance,Winner
+5.19.1,Rap,Gunna,Pushin P,individual_song_or_recording,pushin P,2023,2022,Best Rap Performance,Nominee
+5.2.1,Rap,Anderson .Paak,Bubblin,individual_song_or_recording,Bubblin,2019,2018,Best Rap Performance,Winner
+5.20.1,Rap,DJ Khaled,GOD DID,individual_song_or_recording,GOD DID,2023,2022,Best Rap Performance,Nominee
+5.21.1,Rap,Jack Harlow,Churchill Downs,individual_song_or_recording,Churchill Downs,2023,2022,Best Rap Song,Nominee
+5.22.1,Rap,Kanye West,Jail,individual_song_or_recording,Jail,2022,2021,Best Rap Song,Winner
+5.23.1,Rap,J. Cole,M Y . L I F E,individual_song_or_recording,M Y . L I F E,2022,2021,Best Rap Performance,Nominee
+5.24.1,Rap,Nicki Minaj,Barbie World,individual_song_or_recording,Barbie World [From Barbie The Album],2024,2023,Best Rap Song,Nominee
+5.25.1,Rap,Baby Keem,Family Ties,individual_song_or_recording,Family Ties,2022,2021,Best Rap Performance,Winner
+5.26.1,Rap,Saweetie,Best Friend,individual_song_or_recording,Best Friend,2022,2021,Best Rap Song,Nominee
+5.27.1,Rap,DMX,Bath Salts,individual_song_or_recording,Bath Salts,2022,2021,Best Rap Song,Nominee
+5.28.1,Rap,Megan Thee Stallion,Savage Remix,individual_song_or_recording,Savage,2021,2020,Best Rap Performance,Winner
+5.29.1,Rap,Lil Baby,The Bigger Picture,individual_song_or_recording,The Bigger Picture,2021,2020,Best Rap Song,Nominee
+5.3.1,Rap,Childish Gambino,This Is America,individual_song_or_recording,This Is America,2019,2018,Best Music Video,Winner
+5.30.1,Rap,Roddy Ricch,The Box,individual_song_or_recording,The Box,2021,2020,Best Rap Song,Nominee
+5.31.1,Rap,Drake,Laugh Now Cry Later,individual_song_or_recording,Laugh Now Cry Later,2021,2020,Best Melodic Rap Performance,Nominee
+5.32.1,Rap,DaBaby,ROCKSTAR,individual_song_or_recording,Rockstar,2021,2020,Best Melodic Rap Performance,Nominee
+5.32.2,Rap,DaBaby,Suge,individual_song_or_recording,Suge,2020,2019,Best Rap Performance,Nominee
+5.33.1,Rap,21 Savage,A Lot,individual_song_or_recording,A Lot,2020,2019,Best Rap Song,Winner
+5.34.1,Rap,Nipsey Hussle,Racks In the Middle,individual_song_or_recording,Racks In The Middle,2020,2019,Best Rap Performance,Winner
+5.35.1,Rap,Rick Ross,Gold Roses,individual_song_or_recording,Gold Roses,2020,2019,Best Rap Song,Nominee
+5.36.1,Rap,Cordae,Bad Idea,individual_song_or_recording,Bad Idea,2020,2019,Best Rap Song,Nominee
+5.37.1,Rap,Rapsody,Asteroids,individual_song_or_recording,Asteroids,2025,2024,Best Rap Song,Nominee
+5.38.1,Rap,Future,Like that,individual_song_or_recording,Like That,2025,2024,Best Rap Performance,Nominee
+5.39.1,Rap,Kendrick Lamar,Not like us,individual_song_or_recording,Not Like Us,2025,2024,Best Music Video,Winner
+5.4.1,Rap,Drake,God's Plan,individual_song_or_recording,God's Plan,2019,2018,Best Rap Song,Winner
+5.4.2,Rap,Drake,Take Care,recognized_album_track,Take Care,2013,2012,Best Rap Album,Winner
+5.4.3,Rap,Drake,Headlines,recognized_album_track,Take Care,2013,2012,Best Rap Album,Winner
+5.4.4,Rap,Drake,Cameras,recognized_album_track,Take Care,2013,2012,Best Rap Album,Winner
+5.4.5,Rap,Drake,Look What You've Done,recognized_album_track,Take Care,2013,2012,Best Rap Album,Winner
+5.4.6,Rap,Drake,Under Ground Kings,recognized_album_track,Take Care,2013,2012,Best Rap Album,Winner
+5.40.1,Rap,GloRilla,Yeah Glo,individual_song_or_recording,Yeah Glo!,2025,2024,Best Rap Performance,Nominee
+5.5.1,Rap,Cardi B,Get Up 10,recognized_album_track,Invasion Of Privacy,2019,2018,Best Rap Album,Winner
+5.5.2,Rap,Cardi B,Bickenhead,recognized_album_track,Invasion Of Privacy,2019,2018,Best Rap Album,Winner
+5.5.3,Rap,Cardi B,Bodak Yellow,individual_song_or_recording,Bodak Yellow,2018,2017,Best Rap Performance,Nominee
+5.5.4,Rap,Cardi B,I Like It,individual_song_or_recording,I Like It,2019,2018,Record Of The Year,Nominee
+5.5.5,Rap,Cardi B,She Bad,recognized_album_track,Invasion Of Privacy,2019,2018,Best Rap Album,Winner
+5.6.10,Rap,Kendrick Lamar,How Much A Dollar Cost,recognized_album_track,To Pimp A Butterfly,2016,2015,Best Rap Album,Winner
+5.6.1,Rap,Kendrick Lamar,Humble,individual_song_or_recording,HUMBLE.,2018,2017,Best Music Video,Winner
+5.6.2,Rap,Kendrick Lamar,Loyalty,individual_song_or_recording,LOYALTY.,2018,2017,Best Rap/Sung Performance,Winner
+5.6.3,Rap,Kendrick Lamar,Pride,recognized_album_track,DAMN.,2018,2017,Best Rap Album,Winner
+5.6.4,Rap,Kendrick Lamar,Element,recognized_album_track,DAMN.,2018,2017,Best Rap Album,Winner
+5.6.5,Rap,Kendrick Lamar,Fear,recognized_album_track,DAMN.,2018,2017,Best Rap Album,Winner
+5.6.6,Rap,Kendrick Lamar,Alright,individual_song_or_recording,Alright,2016,2015,Best Rap Performance,Winner
+5.6.7,Rap,Kendrick Lamar,These Walls,individual_song_or_recording,These Walls,2016,2015,Best Rap/Sung Collaboration,Winner
+5.6.8,Rap,Kendrick Lamar,Hood Politics,recognized_album_track,To Pimp A Butterfly,2016,2015,Best Rap Album,Winner
+5.6.9,Rap,Kendrick Lamar,Institutionalized,recognized_album_track,To Pimp A Butterfly,2016,2015,Best Rap Album,Winner
+5.7.1,Rap,Chance the Rapper,No Problem,individual_song_or_recording,No Problem,2017,2016,Best Rap Performance,Winner
+5.7.2,Rap,Chance the Rapper,Summer Friends,recognized_album_track,Coloring Book,2017,2016,Best Rap Album,Winner
+5.7.3,Rap,Chance the Rapper,Smoke Break,recognized_album_track,Coloring Book,2017,2016,Best Rap Album,Winner
+5.7.4,Rap,Chance the Rapper,Same Drugs,recognized_album_track,Coloring Book,2017,2016,Best Rap Album,Winner
+5.7.5,Rap,Chance the Rapper,How Great,recognized_album_track,Coloring Book,2017,2016,Best Rap Album,Winner
+5.7.6,Rap,Chance the Rapper,Mixtape,recognized_album_track,Coloring Book,2017,2016,Best Rap Album,Winner
+5.8.1,Rap,Drake,Hotline Bling,individual_song_or_recording,Hotline Bling,2017,2016,Best Rap Song,Winner
+5.9.1,Rap,Eminem,The Monster,individual_song_or_recording,The Monster,2015,2014,Best Rap/Sung Collaboration,Winner
+5.9.2,Rap,Eminem,Love Game,recognized_album_track,The Marshall Mathers LP2,2015,2014,Best Rap Album,Winner
+5.9.3,Rap,Eminem,Groundhog Day,recognized_album_track,The Marshall Mathers LP2,2015,2014,Best Rap Album,Winner
+5.9.4,Rap,Eminem,Desperation,recognized_album_track,The Marshall Mathers LP2,2015,2014,Best Rap Album,Winner
+5.9.5,Rap,Eminem,Not Afraid,individual_song_or_recording,Not Afraid,2011,2010,Best Rap Solo Performance,Winner
+5.9.6,Rap,Eminem,Space Bound,recognized_album_track,Recovery,2011,2010,Best Rap Album,Winner
+5.9.7,Rap,Eminem,You're Never Over,recognized_album_track,Recovery,2011,2010,Best Rap Album,Winner
+5.9.8,Rap,Eminem,Almost Famous,recognized_album_track,Recovery,2011,2010,Best Rap Album,Winner
+6.1.1,Country,Kacey Musgraves,Butterflies,individual_song_or_recording,Butterflies,2019,2018,Best Country Solo Performance,Winner
+6.1.2,Country,Kacey Musgraves,Space Cowboy,individual_song_or_recording,Space Cowboy,2019,2018,Best Country Song,Winner
+6.1.3,Country,Kacey Musgraves,Golden Hour,recognized_album_track,Golden Hour,2019,2018,Album Of The Year,Winner
+6.1.4,Country,Kacey Musgraves,Love Is A Wild Thing,recognized_album_track,Golden Hour,2019,2018,Album Of The Year,Winner
+6.1.5,Country,Kacey Musgraves,Velvet Elvis,recognized_album_track,Golden Hour,2019,2018,Album Of The Year,Winner
+6.1.6,Country,Kacey Musgraves,Lonely Weekend,recognized_album_track,Golden Hour,2019,2018,Album Of The Year,Winner
+6.1.7,Country,Kacey Musgraves,camera roll,individual_song_or_recording,camera roll,2022,2021,Best Country Solo Performance,Nominee
+6.10.1,Country,Little Big Town,Girl Crush,individual_song_or_recording,Girl Crush,2016,2015,Best Country Duo/Group Performance,Winner
+6.10.2,Country,Little Big Town,Pontoon,individual_song_or_recording,Pontoon,2013,2012,Best Country Duo/Group Performance,Winner
+6.11.1,Country,The Band Perry,Gentle On My Mind,individual_song_or_recording,Gentle On My Mind,2015,2014,Best Country Duo/Group Performance,Winner
+6.12.1,Country,Glen Campbell,I'm Not Gonna Miss You,individual_song_or_recording,I'm Not Gonna Miss You,2015,2014,Best Country Song,Winner
+6.13.1,Country,Miranda Lambert,Platinum,recognized_album_track,Platinum,2015,2014,Best Country Album,Winner
+6.13.2,Country,Miranda Lambert,Bathroom Sink,recognized_album_track,Platinum,2015,2014,Best Country Album,Winner
+6.13.3,Country,Miranda Lambert,Gravity Is A Bitch,recognized_album_track,Platinum,2015,2014,Best Country Album,Winner
+6.13.4,Country,Miranda Lambert,Holding On To You,recognized_album_track,Platinum,2015,2014,Best Country Album,Winner
+6.13.5,Country,Miranda Lambert,The House That Built Me,individual_song_or_recording,The House That Built Me,2011,2010,Best Female Country Vocal Performance,Winner
+6.13.6,Country,Miranda Lambert,Bluebird,individual_song_or_recording,Bluebird,2021,2020,Best Country Solo Performance,Nominee
+6.13.7,Country,Miranda Lambert,If I Was a Cowboy,individual_song_or_recording,If I Was A Cowboy,2023,2022,Best Country Song,Nominee
+6.13.8,Country,Miranda Lambert,It All Comes Out in the Wash,individual_song_or_recording,It All Comes Out In The Wash,2020,2019,Best Country Song,Nominee
+6.14.1,Country,Darius Rucker,Wagon Wheel,individual_song_or_recording,Wagon Wheel,2014,2013,Best Country Solo Performance,Winner
+6.15.1,Country,The Civil Wars,From This Valley,individual_song_or_recording,From This Valley,2014,2013,Best Country Duo/Group Performance,Winner
+6.16.1,Country,Kacey Musgraves,Merry Go 'Round,individual_song_or_recording,Merry Go 'Round,2014,2013,Best Country Song,Winner
+6.16.2,Country,Kacey Musgraves,Back On The Map,recognized_album_track,Same Trailer Different Park,2014,2013,Best Country Album,Winner
+6.16.3,Country,Kacey Musgraves,I Miss You,recognized_album_track,Same Trailer Different Park,2014,2013,Best Country Album,Winner
+6.16.4,Country,Kacey Musgraves,Follow Your Arrow,recognized_album_track,Same Trailer Different Park,2014,2013,Best Country Album,Winner
+6.16.5,Country,Kacey Musgraves,Stupid,recognized_album_track,Same Trailer Different Park,2014,2013,Best Country Album,Winner
+6.17.1,Country,Carrie Underwood,Mama's Song,individual_song_or_recording,Mama's Song,2012,2011,Best Country Solo Performance,Nominee
+6.17.2,Country,Carrie Underwood,Something in the Water,individual_song_or_recording,Something in the Water,2015,2014,Best Country Solo Performance,Winner
+6.17.3,Country,Carrie Underwood,Blown Away,individual_song_or_recording,Blown Away,2013,2012,Best Country Solo Performance,Winner
+6.17.4,Country,Carrie Underwood,Little Toy Guns,individual_song_or_recording,Little Toy Guns,2016,2015,Best Country Solo Performance,Nominee
+6.18.1,Country,Zac Brown Band,Uncaged,recognized_album_track,Uncaged,2013,2012,Best Country Album,Winner
+6.18.2,Country,Zac Brown Band,Jump Right In,recognized_album_track,Uncaged,2013,2012,Best Country Album,Winner
+6.18.3,Country,Zac Brown Band,The Wind,recognized_album_track,Uncaged,2013,2012,Best Country Album,Winner
+6.18.4,Country,Zac Brown Band,Last But Not Least,recognized_album_track,Uncaged,2013,2012,Best Country Album,Winner
+6.19.1,Country,Taylor Swift,Mean,individual_song_or_recording,Mean,2012,2011,Best Country Solo Performance,Winner
+6.2.1,Country,Dan + Shay,Tequila,individual_song_or_recording,Tequila,2019,2018,Best Country Duo/Group Performance,Winner
+6.2.2,Country,Dan + Shay,Speechless,individual_song_or_recording,Speechless,2020,2019,Best Country Duo/Group Performance,Winner
+6.20.1,Country,Morgan Wallen,Last Night,individual_song_or_recording,Last Night,2024,2023,Best Country Song,Nominee
+6.21.1,Country,Tyler Childers,In Your Love,individual_song_or_recording,In Your Love,2024,2023,Best Country Solo Performance,Nominee
+6.22.2,Country,Zach Bryan,I Remember Everything (feat. Kacey Musgraves),individual_song_or_recording,I Remember Everything,2024,2023,Best Country Duo/Group Performance,Winner
+6.23.1,Country,Brandy Clark,Buried,individual_song_or_recording,Buried,2024,2023,Best Country Solo Performance,Nominee
+6.24.1,Country,The Highwomen,Crowded Table,individual_song_or_recording,Crowded Table,2021,2020,Best Country Song,Winner
+6.25.1,Country,Ingrid Andress,More Hearts Than Mine,individual_song_or_recording,More Hearts Than Mine,2021,2020,Best Country Song,Nominee
+6.26.1,Country,Old Dominion,Some People Do,individual_song_or_recording,Some People Do,2021,2020,Best Country Duo/Group Performance,Nominee
+6.27.1,Country,Thomas Rhett,Country Again,individual_song_or_recording,Country Again,2022,2021,Best Country Song,Nominee
+6.28.1,Country,Walker Hayes,Fancy Like,individual_song_or_recording,Fancy Like,2022,2021,Best Country Song,Nominee
+6.29.1,Country,Mickey Guyton,Remember Her Name,individual_song_or_recording,Remember Her Name,2022,2021,Best Country Solo Performance,Nominee
+6.3.1,Country,Chris Stapleton,Either Way,individual_song_or_recording,Either Way,2018,2017,Best Country Solo Performance,Winner
+6.3.2,Country,Chris Stapleton,Broken Halos,individual_song_or_recording,Broken Halos,2018,2017,Best Country Song,Winner
+6.3.3,Country,Chris Stapleton,Death Row,recognized_album_track,From A Room: Volume 1,2018,2017,Best Country Album,Winner
+6.3.4,Country,Chris Stapleton,Second One To Know,recognized_album_track,From A Room: Volume 1,2018,2017,Best Country Album,Winner
+6.3.5,Country,Chris Stapleton,Without Your Love,recognized_album_track,From A Room: Volume 1,2018,2017,Best Country Album,Winner
+6.30.1,Country,Cody Johnson,Til You Can't,individual_song_or_recording,'Til You Can't,2023,2022,Best Country Song,Winner
+6.31.1,Country,Luke Combs,Doin' This,individual_song_or_recording,Doin' This,2023,2022,Best Country Song,Nominee
+6.32.1,Country,Willie Nelson,I'll Love You Till The Day I Die,individual_song_or_recording,I'll Love You Till The Day I Die,2023,2022,Best Country Song,Nominee
+6.33.1,Country,Tanya Tucker,Bring My Flowers Now,individual_song_or_recording,Bring My Flowers Now,2020,2019,Best Country Song,Winner
+6.34.1,Country,Ashley McBryde,Girl Goin' Nowhere,individual_song_or_recording,Girl Goin' Nowhere,2020,2019,Best Country Solo Performance,Nominee
+6.35.1,Country,Eric Church,Some of It,individual_song_or_recording,Some Of It,2020,2019,Best Country Song,Nominee
+6.36.1,Country,Shaboozey,A Bar song(Tipsy),individual_song_or_recording,A Bar Song (Tipsy),2025,2024,Best Country Solo Performance,Nominee
+6.37.1,Country,Jelly Roll,I am not okay,individual_song_or_recording,I Am Not Okay,2025,2024,Best Country Solo Performance,Nominee
+6.38.1,Country,Post Malone,I had some help,individual_song_or_recording,I Had Some Help,2025,2024,Best Country Duo/Group Performance,Nominee
+6.39.1,Country,Beyoncé,Texas Hold Em,individual_song_or_recording,TEXAS HOLD 'EM,2025,2024,Best Country Song,Nominee
+6.4.1,Country,Little Big Town,Better Man,individual_song_or_recording,Better Man,2018,2017,Best Country Duo/Group Performance,Winner
+6.5.1,Country,Maren Morris,My Church,individual_song_or_recording,My Church,2017,2016,Best Country Solo Performance,Winner
+6.5.2,Country,Maren Morris,The Bones,individual_song_or_recording,The Bones,2021,2020,Best Country Song,Nominee
+6.5.3,Country,Maren Morris,Better Than We Found It,individual_song_or_recording,Better Than We Found It,2022,2021,Best Country Song,Nominee
+6.5.4,Country,Maren Morris,Circles Around This Town,individual_song_or_recording,Circles Around This Town,2023,2022,Best Country Solo Performance,Nominee
+6.7.1,Country,Tim McGraw,Humble And Kind,individual_song_or_recording,Humble And Kind,2017,2016,Best Country Song,Winner
+6.7,Country,Pentatonix,Jolene,individual_song_or_recording,Jolene,2017,2016,Best Country Duo/Group Performance,Winner
+6.8.1,Country,Sturgill Simpson,Keep It Between The Lines,recognized_album_track,A Sailor's Guide To Earth,2017,2016,Best Country Album,Winner
+6.8.2,Country,Sturgill Simpson,Breakers Roar,recognized_album_track,A Sailor's Guide To Earth,2017,2016,Best Country Album,Winner
+6.8.3,Country,Sturgill Simpson,Sea Stories,recognized_album_track,A Sailor's Guide To Earth,2017,2016,Best Country Album,Winner
+6.8.4,Country,Sturgill Simpson,Brace For Impact (Live A Little),recognized_album_track,A Sailor's Guide To Earth,2017,2016,Best Country Album,Winner
+6.8.5,Country,Sturgill Simpson,Call To Arms,recognized_album_track,A Sailor's Guide To Earth,2017,2016,Best Country Album,Winner
+6.9.1,Country,Chris Stapleton,Traveller,individual_song_or_recording,Traveller,2016,2015,Best Country Solo Performance,Winner
+6.9.2,Country,Chris Stapleton,More Of You,recognized_album_track,Traveller,2016,2015,Best Country Album,Winner
+6.9.3,Country,Chris Stapleton,Nobody To Blame,recognized_album_track,Traveller,2016,2015,Best Country Album,Winner
+6.9.4,Country,Chris Stapleton,The Devil Named Music,recognized_album_track,Traveller,2016,2015,Best Country Album,Winner
+6.9.5,Country,Chris Stapleton,White Horse,individual_song_or_recording,White Horse,2024,2023,Best Country Solo Performance,Winner
+6.9.6,Country,Chris Stapleton,Cold,individual_song_or_recording,Cold,2022,2021,Best Country Song,Winner
+7.1.1,Reggae,Sting,Morning Is Coming,recognized_album_track,44/876,2019,2018,Best Reggae Album,Winner
+7.1.2,Reggae,Sting,Waiting For The Break Of Day,recognized_album_track,44/876,2019,2018,Best Reggae Album,Winner
+7.1.3,Reggae,Sting,Gotta Get Back My Baby,recognized_album_track,44/876,2019,2018,Best Reggae Album,Winner
+7.1.4,Reggae,Sting,To Love And Be Loved,recognized_album_track,44/876,2019,2018,Best Reggae Album,Winner
+7.10.1,Reggae,Snoop Lion,Smoke The Weed,recognized_album_track,Reincarnated,2014,2013,Best Reggae Album,Nominee
+7.10.2,Reggae,Snoop Lion,Here Comes The King,recognized_album_track,Reincarnated,2014,2013,Best Reggae Album,Nominee
+7.10.3,Reggae,Snoop Lion,So Long,recognized_album_track,Reincarnated,2014,2013,Best Reggae Album,Nominee
+7.11.1,Reggae,Julian Marley,Jah Sees Them,recognized_album_track,Colors Of Royal,2024,2023,Best Reggae Album,Winner
+7.12.1,Reggae,Khalia,High,recognized_album_track,Cali Roots Riddim 2023,2024,2023,Best Reggae Album,Nominee
+7.13.1,Reggae,Beenie Man,Simma,recognized_album_track,Simma,2024,2023,Best Reggae Album,Nominee
+7.14.1,Reggae,Kabaka Pyramid,Make Things Work,recognized_album_track,The Kalling,2023,2022,Best Reggae Album,Winner
+7.14.2,Reggae,Kabaka Pyramid,Mystik Man,recognized_album_track,The Kalling,2023,2022,Best Reggae Album,Winner
+7.15.1,Reggae,Gramps Morgan,Positive Vibration,recognized_album_track,Positive Vibration,2022,2021,Best Reggae Album,Nominee
+7.16.1,Reggae,Sean Paul,Boom,recognized_album_track,Live N Livin,2022,2021,Best Reggae Album,Nominee
+7.17.1,Reggae,Jesse Royal,Black,recognized_album_track,Royal,2022,2021,Best Reggae Album,Nominee
+7.18.1,Reggae,SOJA,Something To Believe In,recognized_album_track,Beauty In The Silence,2022,2021,Best Reggae Album,Winner
+7.19.1,Reggae,Etana,Pamoja,recognized_album_track,Pamoja,2022,2021,Best Reggae Album,Nominee
+7.2.1,Reggae,Damian Marley,Time Travel,recognized_album_track,Stony Hill,2018,2017,Best Reggae Album,Winner
+7.2.2,Reggae,Damian Marley,Looks Are Deceiving,recognized_album_track,Stony Hill,2018,2017,Best Reggae Album,Winner
+7.2.3,Reggae,Damian Marley,The Struggle Discontinues,recognized_album_track,Stony Hill,2018,2017,Best Reggae Album,Winner
+7.2.4,Reggae,Damian Marley,Upholstery,recognized_album_track,Stony Hill,2018,2017,Best Reggae Album,Winner
+7.2.5,Reggae,Damian Marley,Grown & Sexy,recognized_album_track,Stony Hill,2018,2017,Best Reggae Album,Winner
+7.21.1,Reggae,Maxi Priest,It All Comes Back To Love,recognized_album_track,It All Comes Back To Love,2021,2020,Best Reggae Album,Nominee
+7.22.1,Reggae,Toots & The Maytals,Got To Be Tough,recognized_album_track,Got To Be Tough,2021,2020,Best Reggae Album,Winner
+7.23.1,Reggae,The Wailers,"One World, One Prayer (feat.Skip Marley, Farruko, Shaggy &Cedella Marley)",recognized_album_track,One World,2021,2020,Best Reggae Album,Nominee
+7.24.1,Reggae,Original Koffee,Rapture,recognized_album_track,Rapture,2020,2019,Best Reggae Album,Winner
+7.25.1,Reggae,Julian Marley,Broken Sail,recognized_album_track,As I Am,2020,2019,Best Reggae Album,Nominee
+7.26.1,Reggae,Shaggy,Come Fly with Me,recognized_album_track,Com Fly Wid Mi,2023,2022,Best Reggae Album,Nominee
+7.27.1,Reggae,Steel Pulse,Rize,recognized_album_track,Mass Manipulation,2020,2019,Best Reggae Album,Nominee
+7.27.2,Reggae,Steel Pulse,Mass Manipulation,recognized_album_track,Mass Manipulation,2020,2019,Best Reggae Album,Nominee
+7.28.1,Reggae,Original Koffee,Gifted,recognized_album_track,Gifted,2023,2022,Best Reggae Album,Nominee
+7.29.1,Reggae,Sean Paul,Calling On Me,recognized_album_track,Scorcha,2023,2022,Best Reggae Album,Nominee
+7.3.10,Reggae,Ziggy Marley,Sunshine,recognized_album_track,Fly Rasta,2015,2014,Best Reggae Album,Winner
+7.3.11,Reggae,Ziggy Marley,Lighthouse,recognized_album_track,Fly Rasta,2015,2014,Best Reggae Album,Winner
+7.3.12,Reggae,Ziggy Marley,So Many Rising,recognized_album_track,Fly Rasta,2015,2014,Best Reggae Album,Winner
+7.3.1,Reggae,Ziggy Marley,Start It Up,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.2,Reggae,Ziggy Marley,Better Together,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.3,Reggae,Ziggy Marley,Marijauanamen,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.4,Reggae,Ziggy Marley,Weekend's Long,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.5,Reggae,Ziggy Marley,Heaven Can't Take It,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.6,Reggae,Ziggy Marley,Ceceil,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.7,Reggae,Ziggy Marley,We Are The People,recognized_album_track,Ziggy Marley,2017,2016,Best Reggae Album,Winner
+7.3.8,Reggae,Ziggy Marley,Fly Rasta,recognized_album_track,Fly Rasta,2015,2014,Best Reggae Album,Winner
+7.3.9,Reggae,Ziggy Marley,I Don't Wanna Live On Mars,recognized_album_track,Fly Rasta,2015,2014,Best Reggae Album,Winner
+7.30.1,Reggae,Protoje,Family (feat. Jesse Royal),recognized_album_track,Third Time's The Charm,2023,2022,Best Reggae Album,Nominee
+7.31.1,Reggae,Bloody Civilian,Natural Mystic,recognized_album_track,Bob Marley: One Love - Music Inspired By The Film (Deluxe),2025,2024,Best Reggae Album,Winner
+7.31.2,Reggae,Skip Marley,Exodus,recognized_album_track,Bob Marley: One Love - Music Inspired By The Film (Deluxe),2025,2024,Best Reggae Album,Winner
+7.31.3,Reggae,Daniel Caesar,Waiting in Vain,recognized_album_track,Bob Marley: One Love - Music Inspired By The Film (Deluxe),2025,2024,Best Reggae Album,Winner
+7.31.4,Reggae,Kacey Musgraves,Three little birds,recognized_album_track,Bob Marley: One Love - Music Inspired By The Film (Deluxe),2025,2024,Best Reggae Album,Winner
+7.31.5,Reggae,Wizkid,One love,recognized_album_track,Bob Marley: One Love - Music Inspired By The Film (Deluxe),2025,2024,Best Reggae Album,Winner
+7.31.6,Reggae,Jessie Reyez,Is this love,recognized_album_track,Bob Marley: One Love - Music Inspired By The Film (Deluxe),2025,2024,Best Reggae Album,Winner
+7.4.1,Reggae,Morgan Heritage,Light It Up,recognized_album_track,Strictly Roots,2016,2015,Best Reggae Album,Winner
+7.4.2,Reggae,Morgan Heritage,Rise And Fall,recognized_album_track,Strictly Roots,2016,2015,Best Reggae Album,Winner
+7.4.3,Reggae,Morgan Heritage,Perform And Done,recognized_album_track,Strictly Roots,2016,2015,Best Reggae Album,Winner
+7.4.4,Reggae,Morgan Heritage,Why Dem Come Around,recognized_album_track,Strictly Roots,2016,2015,Best Reggae Album,Winner
+7.4.5,Reggae,Morgan Heritage,Put It On Me,recognized_album_track,Strictly Roots,2016,2015,Best Reggae Album,Winner
+7.5.1,Reggae,Jimmy Cliff,World Upside Down,recognized_album_track,Rebirth,2013,2012,Best Reggae Album,Winner
+7.5.2,Reggae,Jimmy Cliff,King Of Kings,recognized_album_track,Rebirth,2013,2012,Best Reggae Album,Winner
+7.5.3,Reggae,Jimmy Cliff,One More,recognized_album_track,Rebirth,2013,2012,Best Reggae Album,Winner
+7.5.4,Reggae,Jimmy Cliff,Ship Is Sailing,recognized_album_track,Rebirth,2013,2012,Best Reggae Album,Winner
+7.6.1,Reggae,Sean Paul,She Doesn't Mind,recognized_album_track,Tomahawk Technique,2013,2012,Best Reggae Album,Nominee
+7.6.2,Reggae,Sean Paul,Dream Girl,recognized_album_track,Tomahawk Technique,2013,2012,Best Reggae Album,Nominee
+7.6.3,Reggae,Sean Paul,What I Want,recognized_album_track,Tomahawk Technique,2013,2012,Best Reggae Album,Nominee
+7.6.4,Reggae,Sean Paul,How Deep Is Your Love,recognized_album_track,Tomahawk Technique,2013,2012,Best Reggae Album,Nominee
+7.7.1,Reggae,Buju Banton,Innocent,recognized_album_track,Before The Dawn,2011,2010,Best Reggae Album,Winner
+7.7.2,Reggae,Buju Banton,Try Life,recognized_album_track,Before The Dawn,2011,2010,Best Reggae Album,Winner
+7.7.3,Reggae,Buju Banton,No Smoking At All,recognized_album_track,Before The Dawn,2011,2010,Best Reggae Album,Winner
+7.7.4,Reggae,Buju Banton,In The Air,recognized_album_track,Before The Dawn,2011,2010,Best Reggae Album,Winner
+7.7.5,Reggae,Buju Banton,Rasta Can't Go,recognized_album_track,Before The Dawn,2011,2010,Best Reggae Album,Winner
+7.7.6,Reggae,Buju Banton,BORN FOR GREATNESS,recognized_album_track,Born For Greatness,2024,2023,Best Reggae Album,Nominee
+7.7.7,Reggae,Buju Banton,Blessed,recognized_album_track,Upside Down 2020,2021,2020,Best Reggae Album,Nominee
+7.8.1,Reggae,Stephen Marley,Made In Africa,recognized_album_track,Revelation Pt. 1: The Root Of Life,2012,2011,Best Reggae Album,Winner
+7.8.2,Reggae,Stephen Marley,False Friends,recognized_album_track,Revelation Pt. 1: The Root Of Life,2012,2011,Best Reggae Album,Winner
+7.8.3,Reggae,Stephen Marley,Break Us Apart,recognized_album_track,Revelation Pt. 1: The Root Of Life,2012,2011,Best Reggae Album,Winner
+7.8.4,Reggae,Stephen Marley,Can't Keep I Down,recognized_album_track,Revelation Pt. 1: The Root Of Life,2012,2011,Best Reggae Album,Winner
+7.8.5,Reggae,Stephen Marley,No Cigarette Smoking (In My Room),recognized_album_track,Revelation Pt. 1: The Root Of Life,2012,2011,Best Reggae Album,Winner
+7.9.1,Reggae,Beres Hammond,Can't Waste No Time,recognized_album_track,"One Love, One Life",2014,2013,Best Reggae Album,Nominee
+7.9.2,Reggae,Beres Hammond,No Candle Light,recognized_album_track,"One Love, One Life",2014,2013,Best Reggae Album,Nominee
+7.9.3,Reggae,Beres Hammond,In My Arms,recognized_album_track,"One Love, One Life",2014,2013,Best Reggae Album,Nominee

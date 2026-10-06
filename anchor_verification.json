@@ -1,0 +1,86 @@
+{
+  "N": 561,
+  "genre_counts": {
+    "pop": 79,
+    "rock": 79,
+    "gospel": 79,
+    "r&b": 85,
+    "rap": 80,
+    "country": 80,
+    "reggae": 79
+  },
+  "checks": {
+    "PC1": {
+      "actual": 33.68294408319581,
+      "target": 33.68294,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 33.68294408319581,
+      "difference_from_frozen": 0.0
+    },
+    "PC2": {
+      "actual": 23.353014384444496,
+      "target": 23.35301,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 23.353014384444496,
+      "difference_from_frozen": 0.0
+    },
+    "PC1 + PC2": {
+      "actual": 57.0359584676403,
+      "target": 57.03596,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 57.0359584676403,
+      "difference_from_frozen": 0.0
+    },
+    "MDD M1 genre p": {
+      "actual": 0.005637682494619569,
+      "target": 0.00564,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.005637682494619569,
+      "difference_from_frozen": 0.0
+    },
+    "MDD interaction p": {
+      "actual": 0.0012873071523190058,
+      "target": 0.00129,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.0012873071523190058,
+      "difference_from_frozen": 0.0
+    },
+    "MHD M1 genre p": {
+      "actual": 0.0013243670308258283,
+      "target": 0.00132,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.0013243670308258283,
+      "difference_from_frozen": 0.0
+    },
+    "MHD interaction p": {
+      "actual": 0.6936967375815176,
+      "target": 0.6937,
+      "tolerance": 1e-05,
+      "passed": true,
+      "frozen_v1_1_value": 0.6936967375815176,
+      "difference_from_frozen": 0.0
+    },
+    "MATTR / MDD": {
+      "actual": -0.02703475538229141,
+      "target": -0.027,
+      "tolerance": 5e-05,
+      "passed": true,
+      "frozen_v1_1_value": -0.02703475538229141,
+      "difference_from_frozen": 0.0
+    },
+    "MATTR / line_repetition_rate": {
+      "actual": -0.4127383238711208,
+      "target": -0.4127,
+      "tolerance": 5e-05,
+      "passed": true,
+      "frozen_v1_1_value": -0.4127383238711208,
+      "difference_from_frozen": 0.0
+    }
+  }
+}

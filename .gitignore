@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+**/.matplotlib/
+reproduced_figures/
+code/analysis/*/diagnostics/
+protected_snapshot.json
+
+# Local-only audit/provenance records
+GITHUB_RELEASE_AUDIT.md
+file_provenance.json
+LOCAL_*
+
+# Intermediate PCA plot exports; final manuscript figures are in figures/
+code/analysis/*/figures/
+
+# Copyrighted text and internal canonical dataset must remain local
+raw/
+lyrics_texts/
+analytical_inputs/
+parsed/
+conll/
+*.conll
+*.conllu
+final_analysis_dataset.csv

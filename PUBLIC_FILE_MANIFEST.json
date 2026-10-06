@@ -1,0 +1,317 @@
+{
+  "description": "Only these repository-relative files are intended for public GitHub upload. Self hash omitted.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "c52f70ac604b35eccf743021ed5bbcd95c13bb5cfea86786a3cb4f80e8c1fa47"
+    },
+    {
+      "path": "PUBLIC_PACKAGE_AUDIT.md",
+      "sha256": "954f2170e7d05f5456177cc3083a00063108313a13692237fd98325cec2b3365"
+    },
+    {
+      "path": "PUBLIC_PROVENANCE.json",
+      "sha256": "81c7c022c3dca4d0b0ea881113acdb0b2415e2a4312e3956076cb507fcbbb6d4"
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "e399c87f0e41244dab03d141cb1fad351df2f119a140f898d1b365232273919f"
+    },
+    {
+      "path": "README.md",
+      "sha256": "041ee3af4d47003f5a64cd25f762c3f349de783119f58e09c8a198b9a65843e0"
+    },
+    {
+      "path": "REPRODUCTION_VERIFICATION.json",
+      "sha256": "8d99f05fffa2741e8e86a956cc2ffb0472d00b9b2be72f5a246c542c22f5efe0"
+    },
+    {
+      "path": "anchor_verification.json",
+      "sha256": "55df3a40a2a8404457e4845e5e6593158b964250feec55317b955b441b4bef1e"
+    },
+    {
+      "path": "code/analysis/round1/01_descriptives.py",
+      "sha256": "1867a88540545c7c7e28d9fbcd9f0b904e82d32406a863665e0c45087023d89f"
+    },
+    {
+      "path": "code/analysis/round1/02_anova_posthoc.py",
+      "sha256": "bbbbe2965a82fa032c3e5e3bb197762e802f48089892f0e2bb0a253cf6ef4a9f"
+    },
+    {
+      "path": "code/analysis/round1/03_correlations.py",
+      "sha256": "169557dbfaacff8178002bdfde76359862b0995d6399ee52b80590a3cdc7cba9"
+    },
+    {
+      "path": "code/analysis/round1/04_line_length_robustness.py",
+      "sha256": "2a0059fa54f503e0a67f0d3e57f954ff471739ab482156d62eba423ce44809b7"
+    },
+    {
+      "path": "code/analysis/round1/05_artist_cluster_robustness.py",
+      "sha256": "5ee710908cb5b5f7a31dd9a6bb804920c0d195328605bb210582c89deb13702c"
+    },
+    {
+      "path": "code/analysis/round1/common.py",
+      "sha256": "3a9412d63b171cb8f2b864d530436561c228e5f987d8e0c1767a3acc2d9cbf79"
+    },
+    {
+      "path": "code/analysis/round1/results/01_descriptives_manifest.json",
+      "sha256": "6083d89ec2f301dd5b472906b5210ad2a391707e676f64cde90fda64094fb2a8"
+    },
+    {
+      "path": "code/analysis/round1/results/02_anova_posthoc_manifest.json",
+      "sha256": "7d2a8839249715a92e758acf5bac17a7e717c9b93822ddcf3901a1c7289e293b"
+    },
+    {
+      "path": "code/analysis/round1/results/03_correlations_manifest.json",
+      "sha256": "07e8af7250367402f91d23d08a89580730909f2f6c0a4ac48a730b2d9edce338"
+    },
+    {
+      "path": "code/analysis/round1/results/04_line_length_robustness_manifest.json",
+      "sha256": "4fcf579bb5f38ca08283faf8e57a88ec179339da61b4ddf25b78df03f53c2d1a"
+    },
+    {
+      "path": "code/analysis/round1/results/05_artist_cluster_robustness_manifest.json",
+      "sha256": "554f01bda4beed8ab33ae5068877d2548fca490d6af150c0b6702161f6963cec"
+    },
+    {
+      "path": "code/analysis/round1/results/anova_omnibus.csv",
+      "sha256": "e65384e37cb6216d2240b2423ac26cec8ab85f8914193e9128a4ec7e0e055a14"
+    },
+    {
+      "path": "code/analysis/round1/results/anova_residuals.csv",
+      "sha256": "805d490a146b4ee23da1e6a6ff8505c77d3c75ef5533dd690fe912d72197851f"
+    },
+    {
+      "path": "code/analysis/round1/results/anova_sensitivity_pair_comparison.csv",
+      "sha256": "511edd3977f5679b6e9ca297a7a26018df87df57608c0504862d45eb5d6ab771"
+    },
+    {
+      "path": "code/analysis/round1/results/artist_cluster_size_distribution.csv",
+      "sha256": "41fab22f3e459d09f79477cdf1f064e4aaef31928562c9aad884b91d6f763968"
+    },
+    {
+      "path": "code/analysis/round1/results/artist_cluster_sizes.csv",
+      "sha256": "a8fc45dad343ebefdb5d8748a3f54d31aec8d54da2ccdc43aab4a67e76672377"
+    },
+    {
+      "path": "code/analysis/round1/results/artist_cluster_summary.csv",
+      "sha256": "05bb5a037664b36dc77ef3ebadb41c7cff919bddbc4aad9d515bb7306dfb1d0b"
+    },
+    {
+      "path": "code/analysis/round1/results/bonferroni_pairwise.csv",
+      "sha256": "cd0df6ac252cc5b072edc1dbd9821799a6f7088be12c6f9aba2ba5a95a722ee7"
+    },
+    {
+      "path": "code/analysis/round1/results/cluster_coefficients.csv",
+      "sha256": "169e484a922339fa5b29ac537465b8842e124d6cf52a3e1881c5e625d1c954e6"
+    },
+    {
+      "path": "code/analysis/round1/results/cluster_genre_slopes.csv",
+      "sha256": "e9894d0475c42dec39623bc529a7d473b2fd7406871ed1e104d84339e5be78b4"
+    },
+    {
+      "path": "code/analysis/round1/results/cluster_models.csv",
+      "sha256": "fdb339d056465e1f913bb672878041334a7bbf3afc36cece37864d01698681d3"
+    },
+    {
+      "path": "code/analysis/round1/results/cluster_rap_contrasts.csv",
+      "sha256": "092352c354684fc29ae8b7ed847ef3637390bda0d8e606ac796d43cb35474c43"
+    },
+    {
+      "path": "code/analysis/round1/results/cluster_vs_HC3_coefficients.csv",
+      "sha256": "2abe6a9e82007a46cf08cc3b8733a8f069481ea6d6307728047ff07497d2f5b1"
+    },
+    {
+      "path": "code/analysis/round1/results/cross_domain_correlations.csv",
+      "sha256": "dc934bc1a853d6bef3ea475658e0c24f0c1b141e6c4b9653e6e4eb0b56c8cf10"
+    },
+    {
+      "path": "code/analysis/round1/results/descriptives_full.csv",
+      "sha256": "1e180b7e9bbacea240b3fe2359249c1c024668689da81ab4a49fcae63572a8b4"
+    },
+    {
+      "path": "code/analysis/round1/results/descriptives_manuscript_mean_SD.csv",
+      "sha256": "3fd190ae9865337283d75abb911f736ea52d703bd370223687a4c3a26bc5ca4e"
+    },
+    {
+      "path": "code/analysis/round1/results/games_howell_pairwise.csv",
+      "sha256": "c6323f2ccc3a4100b8a1b4e12ae52627c51e08529cdb1e077bb67087ff654325"
+    },
+    {
+      "path": "code/analysis/round1/results/hc3_coefficients.csv",
+      "sha256": "aa4a455883c026f056deeb65c616cf1512018cde1ae5f50fefac85a8bc41be7a"
+    },
+    {
+      "path": "code/analysis/round1/results/hc3_genre_slopes.csv",
+      "sha256": "8d602d0072e331e369548b5b9f0acbffb54ba9c2e0d3316a9dc088c43a814732"
+    },
+    {
+      "path": "code/analysis/round1/results/hc3_model0_model1_comparison.csv",
+      "sha256": "e5efab990ad2893ddd67261dee6bca85929fc6bf2cab8283bdf33b9def50ab42"
+    },
+    {
+      "path": "code/analysis/round1/results/hc3_models.csv",
+      "sha256": "916880494cb54d82a9dd3711a584f3dd0e8b664a6e4b0e2859c8b9aa65d7dfce"
+    },
+    {
+      "path": "code/analysis/round1/results/hc3_rap_attenuation.csv",
+      "sha256": "8a67a341f4bd2f345db51e1a37cdcb7f203c820ed2cd3f357ba0a885809c4c46"
+    },
+    {
+      "path": "code/analysis/round1/results/hc3_rap_contrasts.csv",
+      "sha256": "7d415a21ea0b2633164e76970dd938d91b88f4d6ff2134e553fdc29704af8ad2"
+    },
+    {
+      "path": "code/analysis/round1/results/pearson_p_matrix.csv",
+      "sha256": "5ac60816c91098c62b88058c0ac82cd13631cc41a5af91eba9cab34f7c86900a"
+    },
+    {
+      "path": "code/analysis/round1/results/pearson_r_matrix.csv",
+      "sha256": "9c2569ab29a3ed1ecf822f2ef64908e3509ef861b89b0af093c1f5c22f17a86e"
+    },
+    {
+      "path": "code/analysis/round1/results/qq_coordinates.csv",
+      "sha256": "a4b9d59949375e1adf3c23e96518767f9785cb02047ad2756666d013afd5dc0f"
+    },
+    {
+      "path": "code/analysis/round1/results/variance_diagnostics.csv",
+      "sha256": "38ad2a47e707c198dd60687c1ac5b0a857775f2822f1f8d143ef17d5581db44d"
+    },
+    {
+      "path": "code/analysis/round2/01_pca.py",
+      "sha256": "db37c222858905e448c664105f9bb58256fe892501248ac287e4e755a1e6a344"
+    },
+    {
+      "path": "code/analysis/round2/common.py",
+      "sha256": "4f6625609d3889904572b67b3df675c4c9a0180f614d06fcb903528cc2badb96"
+    },
+    {
+      "path": "code/analysis/round2/results/01_pca_manifest.json",
+      "sha256": "3edcebdc65ec00c5d91d60adaf8365345cd0a674a891242a349b0617c7b2d819"
+    },
+    {
+      "path": "code/analysis/round2/results/figure_correlation_matrix.csv",
+      "sha256": "70b3e6bff385619bc2ee8fa1eb889eadc3932eac1fb84c5b66dc7c284a2bd4c2"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_component_coefficients.csv",
+      "sha256": "51580efa121ee69ce5e08275447f3dec749aea5501973456b85cfc777bdab79f"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_genre_centroids.csv",
+      "sha256": "b4df510b947f287d134996ca1e6c1250427b0d8fad952025fdba42a822562ce9"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_genre_score_distributions.csv",
+      "sha256": "f93b0a6bd308ec5f9ec4ca8d687ddb0fe10c6c76e61ed3a719380b9bdc6e25ba"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_loadings.csv",
+      "sha256": "313cc1cd47812b57e7d9c3c307b32892717c4a50de2ed7eaba635770ddaf5db4"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_scaling.csv",
+      "sha256": "2544c5d181920d8d1ccec0e2ca53d397f7d792b80f434458468ee62783e141f0"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_song_scores.csv",
+      "sha256": "e017bb276b299852c0225b23ea0300beaf07aa6f735fa45687af6adca324d0cd"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_validation.csv",
+      "sha256": "99d68e7f34e01976ecbd7ec12fe2afe16631069ce687b63689f8bc5e380fad4f"
+    },
+    {
+      "path": "code/analysis/round2/results/pca_variance.csv",
+      "sha256": "084520e58d47df50e1d71ff54d521815fd015dd5fe590c5fbecc4737565ba5ad"
+    },
+    {
+      "path": "code/features/final_lexical_metrics.py",
+      "sha256": "b4bf339a9e2780454f977b1880e36d887940c7ef3b0644ca06a6a398a4be86de"
+    },
+    {
+      "path": "code/features/lexical_metrics.py",
+      "sha256": "208a34d0ce65254f964b4543c56573045dada33a36e5af5d2b340fc52fe35ea7"
+    },
+    {
+      "path": "code/features/parser.properties",
+      "sha256": "d90757b1e27e186b0686ac8c8b678a63efffa4560a4f970ed2ecc0460dd14a3a"
+    },
+    {
+      "path": "code/features/syntactic_metrics.py",
+      "sha256": "4a0e23e087fd3484e8fca2b52b8af3acf4e1ea6d998a3092f001bd04253d2c8e"
+    },
+    {
+      "path": "code/figures/generate_figure4.py",
+      "sha256": "81b669793c0dcd2b77d744024751d0056f0217e395874b47ab13977218d72b74"
+    },
+    {
+      "path": "code/figures/generate_figure5.py",
+      "sha256": "594952262f140479d564765c16089c225d3be6ef194371cc55fa1d89e2bfc4f6"
+    },
+    {
+      "path": "code/figures/generate_figures2_3.py",
+      "sha256": "56a3e99fee918b1ecfb9d554b5fea89a55e3ba51439f9c60e3336429bc97c379"
+    },
+    {
+      "path": "code/frozen_dataset_v1_1.py",
+      "sha256": "d26d8490750eb6f49e9a26aa624e251e1d697d9b649a0d1d1c53b828f7d20d8b"
+    },
+    {
+      "path": "code/reproduce.py",
+      "sha256": "c4ecd6ea4717486205791d3766a209e9e7eda9e5f3355695c7f829dc3e96b555"
+    },
+    {
+      "path": "code/verify_anchors.py",
+      "sha256": "e6017e7fec71609ad140ff52e4d83d1b0070a8075fa572589347c313e361905d"
+    },
+    {
+      "path": "data/dataset_manifest.json",
+      "sha256": "871bb8dbfd216cd979805ba8f97f20832cc5f6a4f750a2ea60c80a3bf37b8fe4"
+    },
+    {
+      "path": "data/final_analysis_dataset_public.csv",
+      "sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963"
+    },
+    {
+      "path": "data/song_inventory.csv",
+      "sha256": "18e41312376d784a4dffbe222f4f3cec05fb0c2179f4becedff8ab9cdc077355"
+    },
+    {
+      "path": "figures/Figure2_lexical_final_style.png",
+      "sha256": "43fe027e99840af944106a653ff2cb693e29c4d999d0da65e30d16d8766f0b7c"
+    },
+    {
+      "path": "figures/Figure3_dependency_structural_final_style.png",
+      "sha256": "20599a1a9a3d1b1daae413e9bc17d4026dc066f27538f4dd0fe1dd27762b49f0"
+    },
+    {
+      "path": "figures/Figure4_correlation_matrix_v1_1.png",
+      "sha256": "9fe792a9685942021ff05f4a0f1adff1c09da3f2e7aeb2164d0b913f057eda91"
+    },
+    {
+      "path": "figures/Figure5_PCA_v1_1.png",
+      "sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "a75304a7f1eef737d5385fc19a13007336094a24d955b8626f5798413c4b513b"
+    },
+    {
+      "path": "supplementary/Supplementary_Table_S1_FINAL.xlsx",
+      "sha256": "20ea13876f526ff7838bef5c668d51d117c3b32c2f8c788b6e4c829d5e956e3b"
+    },
+    {
+      "path": "supplementary/Supplementary_Table_S2.md",
+      "sha256": "13a61beceea045a51a1bd6a3e11e35483638c8a51a36d9024073893f7e0d4405"
+    },
+    {
+      "path": "supplementary/Supplementary_Table_S2.xlsx",
+      "sha256": "dffcdc26b80384382937baacb35a7d9cec11914a41bcb92b56fa07f6a0f4e737"
+    },
+    {
+      "path": "PUBLIC_FILE_MANIFEST.json",
+      "sha256": null
+    }
+  ]
+}

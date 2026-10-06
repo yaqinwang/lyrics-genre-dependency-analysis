@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "public_dataset_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
+  "local_absolute_paths_found": [],
+  "internal_review_content_found": [],
+  "raw_or_parsed_lyric_files_in_upload": false,
+  "excluded_model_code_results_in_upload": false,
+  "obsolete_results_presented_as_current": false,
+  "canonical_original_unchanged": true,
+  "research_files_changed": false,
+  "local_only_records_ignored_by_git": true,
+  "upload_scope": "PUBLIC_FILE_MANIFEST.json",
+  "scan": "Public file bytes and decompressed XLSX members scanned; Python parsed; public dataset columns and inventory inspected."
+}

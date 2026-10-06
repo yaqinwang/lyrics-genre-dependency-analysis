@@ -1,0 +1,31 @@
+{
+  "stage": "04_line_length_robustness",
+  "completed_utc": "2026-10-06T10:15:41.664124+00:00",
+  "input": "data/final_analysis_dataset_public.csv",
+  "input_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
+  "verified_loader": "frozen_dataset.load_rows (manifest + pinned hash)",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.16.2",
+    "statsmodels": "0.14.5",
+    "matplotlib": "3.10.6",
+    "patsy": "1.0.1"
+  },
+  "script_hashes": {
+    "01_descriptives.py": "1867a88540545c7c7e28d9fbcd9f0b904e82d32406a863665e0c45087023d89f",
+    "02_anova_posthoc.py": "bbbbe2965a82fa032c3e5e3bb197762e802f48089892f0e2bb0a253cf6ef4a9f",
+    "03_correlations.py": "169557dbfaacff8178002bdfde76359862b0995d6399ee52b80590a3cdc7cba9",
+    "05_artist_cluster_robustness.py": "f9d6fbcb6e61d90f8c5285a4db17ed99caa1de71109a9a48891185319e6a1339",
+    "common.py": "3a9412d63b171cb8f2b864d530436561c228e5f987d8e0c1767a3acc2d9cbf79",
+    "04_line_length_robustness.py": "2a0059fa54f503e0a67f0d3e57f954ff471739ab482156d62eba423ce44809b7"
+  },
+  "notes": {
+    "models": "M0 genre; M1 genre + grand-mean-centered average line length; diagnostic genre*centered length",
+    "covariance": "HC3; t confidence intervals/p values with residual df; robust joint F tests",
+    "reference": "pop; interaction genre main effect is at grand mean length; joint six interaction coefficients test slopes",
+    "additional_rap_contrasts": "Rap minus each of six other genres; unadjusted and Bonferroni-six p reported as diagnostic contrasts, not primary 21-pair ANOVA posthoc",
+    "interpretation": "adjustment for an associated structural variable, not a causal mediation analysis"
+  }
+}

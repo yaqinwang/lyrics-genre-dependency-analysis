@@ -1,0 +1,12 @@
+# Python 3.12.14; versions evidenced by final manifests and vendor distribution metadata.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.16.2
+statsmodels==0.14.5
+matplotlib==3.10.6
+scikit-learn==1.7.2
+patsy==1.0.1
+joblib==1.5.2
+threadpoolctl==3.6.0
+pronouncing==0.2.0
+cmudict==1.1.1

@@ -1,0 +1,8 @@
+check,passed
+independent covariance eigensystem,True
+reconstruction with all PCs,True
+orthonormal coefficients,True
+diagonal score covariance,True
+ddof convention eigenvalue sum,True
+identical repeated deterministic fit,True
+documented loading convention,True

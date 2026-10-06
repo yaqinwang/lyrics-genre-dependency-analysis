@@ -1,0 +1,6 @@
+from common import *
+df=load();s,c,r,l=models(df,'HC3')
+for name,data in [('hc3_models.csv',s),('hc3_coefficients.csv',c),('hc3_rap_contrasts.csv',r),('hc3_genre_slopes.csv',l)]:save(name,data)
+a=s[s.model=='M0'].merge(s[s.model=='M1'],on='outcome',suffixes=('_M0','_M1'));a['change_R_squared']=a.R_squared_M1-a.R_squared_M0;a['change_adjusted_R_squared']=a.adjusted_R_squared_M1-a.adjusted_R_squared_M0;save('hc3_model0_model1_comparison.csv',a)
+b=r[r.model=='M0'].merge(r[r.model=='M1'],on=['outcome','contrast'],suffixes=('_M0','_M1'));b['estimate_change']=b.estimate_M1-b.estimate_M0;save('hc3_rap_attenuation.csv',b)
+manifest('04_line_length_robustness',{'models':'M0 genre; M1 genre + grand-mean-centered average line length; diagnostic genre*centered length','covariance':'HC3; t confidence intervals/p values with residual df; robust joint F tests','reference':'pop; interaction genre main effect is at grand mean length; joint six interaction coefficients test slopes','additional_rap_contrasts':'Rap minus each of six other genres; unadjusted and Bonferroni-six p reported as diagnostic contrasts, not primary 21-pair ANOVA posthoc','interpretation':'adjustment for an associated structural variable, not a causal mediation analysis'})

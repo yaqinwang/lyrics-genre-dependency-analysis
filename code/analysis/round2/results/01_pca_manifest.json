@@ -1,0 +1,42 @@
+{
+  "input": "data/final_analysis_dataset_public.csv",
+  "input_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.16.2",
+    "statsmodels": "0.14.5",
+    "matplotlib": "3.10.6",
+    "patsy": "1.0.1",
+    "scikit-learn": "1.7.2",
+    "joblib": "1.5.2",
+    "threadpoolctl": "3.6.0"
+  },
+  "completed_utc": "2026-10-06T10:16:01.458491+00:00",
+  "stage": "01_pca",
+  "notes": {
+    "N": 561,
+    "features": [
+      "MATTR",
+      "lexical_density",
+      "avg_syllables",
+      "lexical_sophistication",
+      "MDD",
+      "MHD",
+      "avg_line_length",
+      "line_repetition_rate"
+    ],
+    "scaling": "StandardScaler population SD ddof=0",
+    "PCA": "full deterministic SVD, 8 components, no whitening",
+    "eigenvalue": "sample covariance denominator N-1",
+    "loadings": "component coefficient * sqrt(eigenvalue); retained historical convention, not exactly Pearson correlations under population scaling",
+    "orientation": "largest absolute coefficient positive per PC",
+    "plot": "all 561 songs + 7 means; no ellipses, no inferential cluster tests",
+    "validation": "all seven numerical checks passed"
+  },
+  "script_hashes": {
+    "01_pca.py": "db37c222858905e448c664105f9bb58256fe892501248ac287e4e755a1e6a344",
+    "common.py": "4f6625609d3889904572b67b3df675c4c9a0180f614d06fcb903528cc2badb96"
+  }
+}
