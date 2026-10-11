@@ -11,7 +11,7 @@ Fresh verification passed: every reported numerical anchor matches frozen v1.1 e
 - `code/analysis/round2/`: approved standardized PCA; selected approved output CSVs provide plot reference checks. Running analyses regenerates their outputs in the corresponding `results/` directories.
 - `code/features/`: unchanged frozen feature-function provenance and parser settings; these are not corpus-build entry points.
 - `code/figures/`: portable copies of final manuscript plot procedures.
-- `supplementary/`: public final S1 workbook and approved v1.1 RC2 [S2 Excel workbook](supplementary/Supplementary_Table_S2.xlsx), with a matching [Markdown view](supplementary/Supplementary_Table_S2.md). S2 retains all four panels; Panel D uses Bonferroni-compatible simultaneous 95% confidence intervals, while Panel B retains pointwise 95% intervals.
+- `supplementary/`: [S1 Excel workbook](supplementary/Supplementary_Table_S1.xlsx) and approved v1.1 RC2 [S2 Excel workbook](supplementary/Supplementary_Table_S2.xlsx). S2 retains all four panels; Panel D uses Bonferroni-compatible simultaneous 95% confidence intervals, while Panel B retains pointwise 95% intervals.
 - `figures/`: approved current PNG figures 2–5. Generated figures go to `reproduced_figures/`.
 - `REPRODUCTION_VERIFICATION.json` and `anchor_verification.json`: fresh execution checks and exact comparisons against frozen v1.1 values.
 - `PUBLIC_PROVENANCE.json`, `PUBLIC_FILE_MANIFEST.json`, `PUBLIC_SAFETY_CHECK.json`, and `PUBLIC_PACKAGE_AUDIT.md`: public provenance, upload allowlist, and final safety audit, using repository-relative file paths.

@@ -86,7 +86,7 @@
       "status": "copied unchanged"
     },
     {
-      "repository_path": "supplementary/Supplementary_Table_S1_FINAL.xlsx",
+      "repository_path": "supplementary/Supplementary_Table_S1.xlsx",
       "source_sha256": "20ea13876f526ff7838bef5c668d51d117c3b32c2f8c788b6e4c829d5e956e3b",
       "staged_sha256": "20ea13876f526ff7838bef5c668d51d117c3b32c2f8c788b6e4c829d5e956e3b",
       "status": "copied unchanged"
@@ -98,16 +98,10 @@
       "status": "generated"
     },
     {
-      "repository_path": "supplementary/Supplementary_Table_S2.md",
-      "source_sha256": "13a61beceea045a51a1bd6a3e11e35483638c8a51a36d9024073893f7e0d4405",
-      "staged_sha256": "13a61beceea045a51a1bd6a3e11e35483638c8a51a36d9024073893f7e0d4405",
-      "status": "copied unchanged"
-    },
-    {
       "repository_path": "supplementary/Supplementary_Table_S2.xlsx",
-      "source_sha256": "dffcdc26b80384382937baacb35a7d9cec11914a41bcb92b56fa07f6a0f4e737",
-      "staged_sha256": "dffcdc26b80384382937baacb35a7d9cec11914a41bcb92b56fa07f6a0f4e737",
-      "status": "copied unchanged"
+      "source_sha256": "d61eda7730afec629b9fc8d41d51c5b39831bc515dbb498f9aaa06d79eb00dbb",
+      "staged_sha256": "d61eda7730afec629b9fc8d41d51c5b39831bc515dbb498f9aaa06d79eb00dbb",
+      "status": "approved v1.1 RC2; copied unchanged"
     },
     {
       "repository_path": "figures/Figure2_lexical_final_style.png",

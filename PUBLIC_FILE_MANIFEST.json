@@ -13,8 +13,8 @@
     },
     {
       "path": "PUBLIC_PROVENANCE.json",
-      "sha256": "81c7c022c3dca4d0b0ea881113acdb0b2415e2a4312e3956076cb507fcbbb6d4",
-      "bytes": 10923
+      "sha256": "8e482abaa2fccb5d3c1aa8fe184b814179d01eb10e35f00db93bfa71ed89606b",
+      "bytes": 10638
     },
     {
       "path": "PUBLIC_SAFETY_CHECK.json",
@@ -23,8 +23,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "5362ee17f8a4b823dda162bfc00d61235d133d72e59eea3d77a4cd5e640c4ca8",
-      "bytes": 7489
+      "sha256": "a6b3660ce8a2ac146dc486e28fd9a2456f8aa7be25ad8e0d38465350a53eaf47",
+      "bytes": 7453
     },
     {
       "path": "REPRODUCTION_VERIFICATION.json",
@@ -372,14 +372,9 @@
       "bytes": 272
     },
     {
-      "path": "supplementary/Supplementary_Table_S1_FINAL.xlsx",
+      "path": "supplementary/Supplementary_Table_S1.xlsx",
       "sha256": "20ea13876f526ff7838bef5c668d51d117c3b32c2f8c788b6e4c829d5e956e3b",
       "bytes": 38008
-    },
-    {
-      "path": "supplementary/Supplementary_Table_S2.md",
-      "sha256": "0f9993ccb6a2d477c094d5362e06716d23b0683b6127617052c3dbb458d7ae30",
-      "bytes": 4589
     },
     {
       "path": "supplementary/Supplementary_Table_S2.xlsx",
