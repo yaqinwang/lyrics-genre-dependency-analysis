@@ -1,0 +1,9 @@
+outcome,model,formula,N,clusters,clustering_variable,covariance,finite_cluster_covariance_multiplier,genre_F,genre_df_num,genre_df_denom,genre_p,significant_alpha_05,s2_F_cell,s2_p_cell
+MATTR,M0,MATTR ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,14.964486957918231,6,230,1.9373626802040102e-14,True,D8,E8
+lexical_density,M0,lexical_density ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,4.0275629081553577,6,230,0.00073965012376235898,True,D9,E9
+avg_syllables,M0,avg_syllables ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,4.3410217532726154,6,230,0.0003584480812405143,True,D10,E10
+lexical_sophistication,M0,lexical_sophistication ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,13.42439290127936,6,230,4.8415261501039815e-13,True,D11,E11
+MDD,M0,MDD ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,12.883730407411653,6,230,1.5266939930582738e-12,True,D12,E12
+MHD,M0,MHD ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,9.5905215994282091,6,230,2.0509245183348503e-09,True,D13,E13
+avg_line_length,M0,avg_line_length ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,11.924790636381191,6,230,1.1987865917765939e-11,True,D14,E14
+line_repetition_rate,M0,line_repetition_rate ~ C(genre),561,231,primary_artist,CR1,1.0152252393658765,13.352364061112089,6,230,5.6388048543965061e-13,True,D15,E15

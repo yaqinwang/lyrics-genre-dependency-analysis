@@ -24,3 +24,7 @@ conll/
 *.conll
 *.conllu
 final_analysis_dataset.csv
+
+# Regenerated ANOVA diagnostics
+/code/analysis/round1/results/anova_residuals.csv
+/code/analysis/round1/results/qq_coordinates.csv

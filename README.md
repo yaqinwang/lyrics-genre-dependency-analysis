@@ -14,7 +14,6 @@ Fresh verification passed: every reported numerical anchor matches frozen v1.1 e
 - `supplementary/`: approved Supplementary Tables S1–S3 in Excel format only, described below.
 - `figures/`: approved current PNG figures 2–5. Generated figures go to `reproduced_figures/`.
 - `REPRODUCTION_VERIFICATION.json` and `anchor_verification.json`: fresh execution checks and exact comparisons against frozen v1.1 values.
-- `PUBLIC_PROVENANCE.json`, `PUBLIC_FILE_MANIFEST.json`, `PUBLIC_SAFETY_CHECK.json`, and `PUBLIC_PACKAGE_AUDIT.md`: public provenance, upload allowlist, and final safety audit, using repository-relative file paths.
 
 ## Supplementary tables
 
@@ -34,7 +33,7 @@ The public dataset removes only 11 internal provenance/review columns, including
 
 ## Software environment
 
-Final execution manifests establish Python 3.12.14, NumPy 2.3.5, pandas 2.2.3, SciPy 1.16.2, statsmodels 0.14.5, scikit-learn 1.7.2, matplotlib 3.10.6 and patsy 1.0.1. Final vendor metadata establishes joblib 1.5.2 and threadpoolctl 3.6.0. Frozen feature-build provenance establishes pronouncing 0.2.0, cmudict 1.1.1, Stanford CoreNLP 4.5.9 and Java 21.0.6. Python requirements are pinned only where local evidence establishes a version; parser/Java are needed only for separately held text processing.
+Final execution manifests establish Python 3.12.14, NumPy 2.3.5, pandas 2.2.3, SciPy 1.16.2, statsmodels 0.14.5, scikit-learn 1.7.2, matplotlib 3.10.6 and patsy 1.0.1. Final vendor metadata establishes joblib 1.5.2 and threadpoolctl 3.6.0. Frozen feature-build provenance establishes pronouncing 0.2.0, cmudict 1.1.1, Stanford CoreNLP 4.5.9 and Java 21.0.6. Analytical package versions are pinned where local evidence establishes a version. Setuptools 80.9.0 supplies the legacy `pkg_resources` runtime required by pronouncing 0.2.0 and was tested in the clean installation. Parser/Java are needed only for separately held text processing.
 
 ## Reproduce analyses and figures
 
@@ -47,7 +46,16 @@ python -m pip install -r requirements.txt
 python -B code/reproduce.py
 ```
 
-The runner executes Round 1 scripts 01–05 in order, then Round 2 PCA, final plot procedures for figures 2–5, and manuscript anchor checks. It uses only repository paths. Packaging verification used Python 3.12.14 and existing read-only dependency libraries at the evidenced versions; a new pip installation was not tested. Statistical outputs retain the approved algorithms; source scripts are preserved outside this package. S1 is supplied as a publication table; S2 is supplied as the approved RC2 presentation table. Its HC3 models and adjusted artist-clustered models correspond to Round 1 scripts 04 and 05; Panel A also includes the verified supplementary genre-only artist-clustered results for all eight measures. These supplementary results and the simultaneous intervals were verified separately before publication; this release update does not rerun or alter statistical outputs. Exact original orchestration/reviewer scripts depending on private manuscript files are excluded.
+The runner executes Round 1 scripts 01–06 in order, then Round 2 PCA, final plot procedures for figures 2–5, and manuscript anchor checks. It uses only repository paths. Clean-environment verification used Python 3.12.14, a fresh virtual environment with system/user packages disabled, and dependencies installed solely from `requirements.txt`; no vendor directories or external project dependency paths were used. Statistical outputs retain the approved algorithms; source scripts are preserved outside this package. S1 is supplied as a publication table; S2 is supplied as the approved RC2 presentation table. Its HC3 models and adjusted artist-clustered models correspond to Round 1 scripts 04 and 05; Panel A also includes the verified supplementary genre-only artist-clustered results for all eight measures. These supplementary results and the simultaneous intervals were verified separately before publication. Script 06 now reproduces and verifies both components against the unchanged approved S2 workbook. Exact original orchestration/reviewer scripts depending on private manuscript files are excluded.
+
+## Supplementary Table S2 reproduction verification
+
+`code/analysis/round1/06_verify_s2_panels.py` runs after the existing analyses and reproduces the previously verified supplementary calculations:
+
+- **Panel A:** eight genre-only OLS models (`outcome ~ C(genre)`), primary-artist CR1 covariance with correction `G/(G−1) × (N−1)/(N−k)`, and joint genre F tests with df (6, 230), using 561 songs and 231 clusters.
+- **Panel D:** intervals `estimate ± t.ppf(1−0.05/(2×6), df) × SE` from the existing M1 contrast CSVs, with HC3 df 553 and CR1 df 230. The six contrasts form a separate family for each outcome and estimator. Panel B retains pointwise intervals.
+
+The step checks the approved S2 checksum and compares full-precision numeric cells using rtol `1e-10`, interval/F/estimate atol `1e-13`, and p-value atol zero. A mismatch stops reproduction. New outputs are `s2_panel_a_artist_clustered.csv`, `s2_panel_d_simultaneous_intervals.csv`, and `s2_panels_verification.json` in the Round 1 results directory. Existing result files are read-only inputs to this step; Supplementary Tables S1–S3 are never regenerated. No additional omnibus multiplicity correction is applied. Clustering adjusts inference for within-artist dependence, without controlling artist-specific, year, or songwriter confounding.
 
 ## Feature extraction
 
@@ -65,6 +73,6 @@ Paper citation: forthcoming / manuscript under revision.
 
 ## Public upload scope
 
-Only files listed in `PUBLIC_FILE_MANIFEST.json` are intended for public upload. The local audit, protected snapshot, private provenance report and files prefixed `LOCAL_` are explicitly git-ignored. Temporary rerenders, diagnostics, caches and system metadata are also ignored. `PUBLIC_PROVENANCE.json` contains repository-relative paths only. An entirely null historical review flag was omitted from the public artist-cluster summary, with all analytical values preserved.
+The public repository retains the verified research dataset, dataset integrity manifest, analysis and figure code, inspectable statistical results, final figures, Supplementary Tables S1–S3, and reproduction verification records. Internal packaging records are excluded. Local audits, protected snapshots, private provenance, `LOCAL_` files, diagnostics, caches, and temporary rerenders are git-ignored. `anova_residuals.csv` and `qq_coordinates.csv` are generated by script 02 but excluded from Git tracking. An entirely null historical review flag was omitted from the public artist-cluster summary, with all analytical values preserved.
 
 The original Figure 4 staging PNG was superseded; it was corrected to the approved Dependency-based/Structural terminology revision. Figures 2–5 now reproduce byte-for-byte. Citation details and the authors' choice of release license remain to be supplied; no license was inferred.
