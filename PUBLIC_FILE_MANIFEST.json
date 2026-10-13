@@ -13,8 +13,8 @@
     },
     {
       "path": "PUBLIC_PROVENANCE.json",
-      "sha256": "8e482abaa2fccb5d3c1aa8fe184b814179d01eb10e35f00db93bfa71ed89606b",
-      "bytes": 10638
+      "sha256": "70eaba21ce581d7066da9ac08534c794038077e87f1d2d12c7aa33bfc1eca4a5",
+      "bytes": 11287
     },
     {
       "path": "PUBLIC_SAFETY_CHECK.json",
@@ -23,8 +23,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "a6b3660ce8a2ac146dc486e28fd9a2456f8aa7be25ad8e0d38465350a53eaf47",
-      "bytes": 7453
+      "sha256": "a7a4a89fa176ca0468d35270a4ea45ee7d8b1d7c5179bfd224975720eaa6bf9a",
+      "bytes": 8397
     },
     {
       "path": "REPRODUCTION_VERIFICATION.json",
@@ -380,6 +380,11 @@
       "path": "supplementary/Supplementary_Table_S2.xlsx",
       "sha256": "d61eda7730afec629b9fc8d41d51c5b39831bc515dbb498f9aaa06d79eb00dbb",
       "bytes": 9058
+    },
+    {
+      "path": "supplementary/Supplementary_Table_S3.xlsx",
+      "sha256": "aa0db75b54179979d8a7257907b6271a897ca6a1d46288be9b6a170226e00377",
+      "bytes": 24453
     },
     {
       "path": "PUBLIC_FILE_MANIFEST.json",

@@ -208,14 +208,21 @@
     {
       "repository_path": "README.md",
       "source_sha256": null,
-      "staged_sha256": "041ee3af4d47003f5a64cd25f762c3f349de783119f58e09c8a198b9a65843e0",
-      "status": "final publication documentation/configuration update"
+      "staged_sha256": "a7a4a89fa176ca0468d35270a4ea45ee7d8b1d7c5179bfd224975720eaa6bf9a",
+      "status": "publication documentation updated for Excel Supplementary Tables S1\u2013S3"
     },
     {
       "repository_path": "data/final_analysis_dataset_public.csv",
       "source_sha256": "7b1bf2f3df4a90b64af5cfa31c01944762c14fcf434fbf00218367c4b9db1f26",
       "staged_sha256": "8bd4009cd2c2f6136e2b99ebb21cd496399b9b899a553f2acec0b78aeba9f963",
       "status": "column projection; retained values unchanged"
+    },
+    {
+      "repository_path": "supplementary/Supplementary_Table_S3.xlsx",
+      "source_sha256": "aa0db75b54179979d8a7257907b6271a897ca6a1d46288be9b6a170226e00377",
+      "staged_sha256": "aa0db75b54179979d8a7257907b6271a897ca6a1d46288be9b6a170226e00377",
+      "status": "approved v1.1 S3; copied byte-identically after independent verification and author review",
+      "description": "Sheet 1: 168 raw genre pairwise comparisons; Bonferroni within 21 per measure; signed pooled-SD Cohen\u2019s d. Sheet 2: 28 Pearson correlations; BH across exactly 16 cross-domain tests. Separate from S2 adjusted Rap contrasts."
     }
   ]
 }

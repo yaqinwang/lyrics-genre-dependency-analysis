@@ -11,10 +11,16 @@ Fresh verification passed: every reported numerical anchor matches frozen v1.1 e
 - `code/analysis/round2/`: approved standardized PCA; selected approved output CSVs provide plot reference checks. Running analyses regenerates their outputs in the corresponding `results/` directories.
 - `code/features/`: unchanged frozen feature-function provenance and parser settings; these are not corpus-build entry points.
 - `code/figures/`: portable copies of final manuscript plot procedures.
-- `supplementary/`: [S1 Excel workbook](supplementary/Supplementary_Table_S1.xlsx) and approved v1.1 RC2 [S2 Excel workbook](supplementary/Supplementary_Table_S2.xlsx). S2 retains all four panels; Panel D uses Bonferroni-compatible simultaneous 95% confidence intervals, while Panel B retains pointwise 95% intervals.
+- `supplementary/`: approved Supplementary Tables S1–S3 in Excel format only, described below.
 - `figures/`: approved current PNG figures 2–5. Generated figures go to `reproduced_figures/`.
 - `REPRODUCTION_VERIFICATION.json` and `anchor_verification.json`: fresh execution checks and exact comparisons against frozen v1.1 values.
 - `PUBLIC_PROVENANCE.json`, `PUBLIC_FILE_MANIFEST.json`, `PUBLIC_SAFETY_CHECK.json`, and `PUBLIC_PACKAGE_AUDIT.md`: public provenance, upload allowlist, and final safety audit, using repository-relative file paths.
+
+## Supplementary tables
+
+- [Supplementary Table S1 — Song-level corpus inventory](supplementary/Supplementary_Table_S1.xlsx): song inventory and genre/artist metadata.
+- [Supplementary Table S2 — Robustness and sensitivity analyses](supplementary/Supplementary_Table_S2.xlsx): conventional and artist-clustered genre tests, line-length-adjusted MDD/MHD models, diagnostic interaction tests, and adjusted Rap contrasts under HC3 and CR1 inference. Panel D uses Bonferroni-compatible simultaneous 95% confidence intervals; Panel B retains pointwise 95% intervals.
+- [Supplementary Table S3 — Pairwise comparisons and correlation analyses](supplementary/Supplementary_Table_S3.xlsx): Sheet 1, Pairwise Comparisons, contains 168 raw genre comparisons across all eight measures, signed Cohen’s d, and Bonferroni-adjusted p-values within each measure’s 21-comparison family. Sheet 2, Correlation Analysis, contains 28 unique Pearson correlations, with BH-adjusted p-values restricted to the 16 prespecified cross-domain comparisons. S3’s raw pairwise comparisons are separate from S2’s line-length-adjusted Rap contrasts and their six-comparison families.
 
 ## Data availability and integrity
 
