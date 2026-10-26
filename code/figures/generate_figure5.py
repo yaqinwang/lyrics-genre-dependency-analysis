@@ -1,4 +1,5 @@
 """Final Figure 5: approved Version 1 labeled centroids; never fit PCA."""
+import argparse
 from pathlib import Path
 import sys,os,csv,json,hashlib,shutil,copy,posixpath,subprocess
 from zipfile import ZipFile
@@ -62,7 +63,10 @@ for i,genre in enumerate(GENRES):
  t=s[s.genre==genre];cent=c[c.genre==genre].iloc[0]
  assert np.array_equal(ax.collections[2*i].get_offsets(),t[['PC1','PC2']].to_numpy())
  assert np.array_equal(ax.collections[2*i+1].get_offsets(),[[cent.PC1,cent.PC2]])
-for ext in ['png','pdf','svg']:
+parser=argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--vector-exports',action='store_true',help='Also export local PDF/SVG to reproduced_figures (not public figures/)')
+args=parser.parse_args()
+for ext in ['png'] + (['pdf','svg'] if args.vector_exports else []):
  meta={'Software':'Lyrics frozen v1.1 centroid-label preview'} if ext=='png' else {'Creator':'Lyrics frozen v1.1 centroid-label preview'}
  if ext=='pdf':meta.update(CreationDate=None,ModDate=None)
  if ext=='svg':meta['Date']=None

@@ -379,20 +379,6 @@
       ],
       "superseded_approved_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
       "approval": "Reviewed Version 1: directly labeled genre centroids; byte-identical to approved PNG"
-    },
-    {
-      "repository_path": "figures/Figure5_PCA_v1_1.pdf",
-      "approved_sha256": "0b8245250fec78c9415c1c3063e702c39d5bb3c813062030e7a9e669ca8a0df0",
-      "reproduced_sha256": "0b8245250fec78c9415c1c3063e702c39d5bb3c813062030e7a9e669ca8a0df0",
-      "byte_identical": true,
-      "approval": "Reviewed Version 1 PDF"
-    },
-    {
-      "repository_path": "figures/Figure5_PCA_v1_1.svg",
-      "approved_sha256": "3b452d3716102b4529c4b304459b55645265805ce75eb848c63f172f45842f22",
-      "reproduced_sha256": "3b452d3716102b4529c4b304459b55645265805ce75eb848c63f172f45842f22",
-      "byte_identical": true,
-      "approval": "SVG export of reviewed Version 1 plot"
     }
   ],
   "figure4_discrepancy_resolution": "Initial staging used a superseded parent-folder PNG. It was replaced by the approved terminology revision. All current figure PNGs are now byte-identical to fresh rerenders.",
@@ -502,9 +488,8 @@
     "centroid_coordinates_unchanged": 7,
     "axes_ticks_limits_labels_layout_unchanged": true,
     "approved_V1_png_byte_identical": true,
-    "approved_V1_pdf_byte_identical": true,
     "superseded_figure_comparison": "Figure 5 intentionally differs from the superseded official PNG; byte-identical checks refer to approved Version 1, not that superseded PNG.",
-    "figure5_script_sha256": "3fb37987584f39c22de97c68895998f75bd2569a7e3fbad55be929a338d3b149",
+    "figure5_script_sha256": "d05488ceef7c4c329b7490dc4c2d4144a3fbbc3671e6459d579fcb6e8659995f",
     "centroid_label_offsets_points": {
       "pop": [
         10,
@@ -536,6 +521,16 @@
       ]
     },
     "connector_color": "#454545",
-    "connector_linewidth_pt": 0.65
+    "connector_linewidth_pt": 0.65,
+    "official_tracked_format": "PNG only",
+    "optional_local_vector_exports": "--vector-exports writes PDF/SVG to ignored reproduced_figures/",
+    "png_only_cleanup_checks": {
+      "status": "PASS",
+      "default_export_png_only": true,
+      "optional_local_vectors_verified": true,
+      "all_four_official_PNGs_byte_identical": true,
+      "original_CSVs_byte_identical": 35,
+      "S2_panels_unchanged": true
+    }
   }
 }

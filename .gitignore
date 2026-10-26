@@ -28,3 +28,7 @@ final_analysis_dataset.csv
 # Regenerated ANOVA diagnostics
 /code/analysis/round1/results/anova_residuals.csv
 /code/analysis/round1/results/qq_coordinates.csv
+
+# Public Figure 5 is PNG only; optional vector exports stay local
+/figures/Figure5_PCA_v1_1.pdf
+/figures/Figure5_PCA_v1_1.svg

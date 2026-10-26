@@ -12,7 +12,7 @@ Fresh verification passed: every reported numerical anchor matches frozen v1.1 e
 - `code/features/`: unchanged frozen feature-function provenance and parser settings; these are not corpus-build entry points.
 - `code/figures/`: portable copies of final manuscript plot procedures.
 - `supplementary/`: approved Supplementary Tables S1–S3 in Excel format only, described below.
-- `figures/`: approved current PNG figures 2–5, with PDF/SVG exports of Figure 5. Generated figures go to `reproduced_figures/`.
+- `figures/`: approved current PNG figures 2–5. Generated figures go to `reproduced_figures/`.
 - `REPRODUCTION_VERIFICATION.json` and `anchor_verification.json`: fresh execution checks and exact comparisons against frozen v1.1 values.
 
 ## Supplementary tables
@@ -59,9 +59,9 @@ The step checks the approved S2 checksum and compares full-precision numeric cel
 
 ## Figure 5: PCA with labeled genre centroids
 
-[Figure 5](figures/Figure5_PCA_v1_1.png) shows individual songs and directly labeled genre centroids ([PDF](figures/Figure5_PCA_v1_1.pdf), [SVG](figures/Figure5_PCA_v1_1.svg)). The approved Version 1 styling uses distinct song markers, smaller centroid diamonds, and fixed labels with 0.65-pt gray connector lines. Axis labels remain PC1 (33.7%) and PC2 (23.4%). This is a descriptive projection; no inferential claim of significant genre separation is made.
+[Figure 5](figures/Figure5_PCA_v1_1.png) shows individual songs and directly labeled genre centroids. The approved Version 1 styling uses distinct song markers, smaller centroid diamonds, and fixed labels with 0.65-pt gray connector lines. Axis labels remain PC1 (33.7%) and PC2 (23.4%). This is a descriptive projection; no inferential claim of significant genre separation is made.
 
-`code/analysis/round2/01_pca.py` computes and validates the unchanged PCA results. Its separate legacy plot block has been removed. The sole final Figure 5 plotting implementation is `code/figures/generate_figure5.py`, invoked by `code/reproduce.py`; it reads saved scores, centroids and variance without refitting PCA. The PNG and PDF reproduce the reviewed Version 1 exports byte-for-byte. The prior official Figure 5 is superseded and remains recoverable in Git history. Current approved hashes, the superseded PNG hash, and verification details are recorded in `REPRODUCTION_VERIFICATION.json`.
+`code/analysis/round2/01_pca.py` computes and validates the unchanged PCA results. Its separate legacy plot block has been removed. The sole final Figure 5 plotting implementation is `code/figures/generate_figure5.py`, invoked by `code/reproduce.py`; it reads saved scores, centroids and variance without refitting PCA. The PNG reproduces the reviewed Version 1 export byte-for-byte. Official tracked figures are PNG only. Optional local PDF/SVG exports are available with `python -B code/figures/generate_figure5.py --vector-exports` and are written to the ignored `reproduced_figures/` directory; those formats are not tracked under `figures/`. The prior official Figure 5 is superseded and remains recoverable in Git history. Current approved hashes, the superseded PNG hash, and verification details are recorded in `REPRODUCTION_VERIFICATION.json`.
 
 ## Feature extraction
 
