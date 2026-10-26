@@ -369,14 +369,30 @@
     },
     {
       "repository_path": "figures/Figure5_PCA_v1_1.png",
-      "approved_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
-      "reproduced_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
+      "approved_sha256": "278d6c67db81c4d61e3cddba242808ac921390ae12f6034be45e3487d1d446c6",
+      "reproduced_sha256": "278d6c67db81c4d61e3cddba242808ac921390ae12f6034be45e3487d1d446c6",
       "pixel_identical": true,
       "byte_identical": true,
       "dimensions": [
         2728,
         1988
-      ]
+      ],
+      "superseded_approved_sha256": "d39cf74b1c89937dc1ae54319012ecb329d9d0e4016b82ee52a9423f64000d9c",
+      "approval": "Reviewed Version 1: directly labeled genre centroids; byte-identical to approved PNG"
+    },
+    {
+      "repository_path": "figures/Figure5_PCA_v1_1.pdf",
+      "approved_sha256": "0b8245250fec78c9415c1c3063e702c39d5bb3c813062030e7a9e669ca8a0df0",
+      "reproduced_sha256": "0b8245250fec78c9415c1c3063e702c39d5bb3c813062030e7a9e669ca8a0df0",
+      "byte_identical": true,
+      "approval": "Reviewed Version 1 PDF"
+    },
+    {
+      "repository_path": "figures/Figure5_PCA_v1_1.svg",
+      "approved_sha256": "3b452d3716102b4529c4b304459b55645265805ce75eb848c63f172f45842f22",
+      "reproduced_sha256": "3b452d3716102b4529c4b304459b55645265805ce75eb848c63f172f45842f22",
+      "byte_identical": true,
+      "approval": "SVG export of reviewed Version 1 plot"
     }
   ],
   "figure4_discrepancy_resolution": "Initial staging used a superseded parent-folder PNG. It was replaced by the approved terminology revision. All current figure PNGs are now byte-identical to fresh rerenders.",
@@ -453,5 +469,73 @@
       "frozen_v1_1_value": -0.4127383238711208,
       "difference_from_frozen": 0.0
     }
+  },
+  "latest_figure5_verification": {
+    "verification_date": "2026-10-26",
+    "status": "PASS",
+    "approved_version": "Version 1; Version 2 not used",
+    "workflow": "python -B code/reproduce.py; all stages including S2 verifier",
+    "execution_environment": {
+      "python": "3.12.14",
+      "packages": {
+        "numpy": "2.3.5",
+        "pandas": "2.2.3",
+        "scipy": "1.16.2",
+        "statsmodels": "0.14.5",
+        "matplotlib": "3.10.6",
+        "patsy": "1.0.1",
+        "scikit-learn": "1.7.2",
+        "joblib": "1.5.2",
+        "threadpoolctl": "3.6.0"
+      },
+      "dependency_source": "Previously verified read-only project dependency libraries via PYTHONPATH; not a new pip installation"
+    },
+    "original_CSV_comparisons": 35,
+    "original_CSVs_byte_identical": true,
+    "S2_csv_comparisons": 2,
+    "S2_verification_record_byte_identical": true,
+    "S2_numeric_cell_checks": 128,
+    "PCA_numerical_code_unchanged": true,
+    "all_PCA_CSVs_byte_identical": true,
+    "figures_2_4_byte_identical": true,
+    "song_coordinates_unchanged": 561,
+    "centroid_coordinates_unchanged": 7,
+    "axes_ticks_limits_labels_layout_unchanged": true,
+    "approved_V1_png_byte_identical": true,
+    "approved_V1_pdf_byte_identical": true,
+    "superseded_figure_comparison": "Figure 5 intentionally differs from the superseded official PNG; byte-identical checks refer to approved Version 1, not that superseded PNG.",
+    "figure5_script_sha256": "3fb37987584f39c22de97c68895998f75bd2569a7e3fbad55be929a338d3b149",
+    "centroid_label_offsets_points": {
+      "pop": [
+        10,
+        -70
+      ],
+      "rock": [
+        -65,
+        42
+      ],
+      "gospel": [
+        -75,
+        -38
+      ],
+      "r&b": [
+        65,
+        -27
+      ],
+      "rap": [
+        55,
+        0
+      ],
+      "country": [
+        65,
+        42
+      ],
+      "reggae": [
+        -10,
+        65
+      ]
+    },
+    "connector_color": "#454545",
+    "connector_linewidth_pt": 0.65
   }
 }

@@ -13,7 +13,7 @@
     "joblib": "1.5.2",
     "threadpoolctl": "3.6.0"
   },
-  "completed_utc": "2026-10-06T10:16:01.458491+00:00",
+  "completed_utc": "2026-10-26T06:33:44.166506+00:00",
   "stage": "01_pca",
   "notes": {
     "N": 561,
@@ -36,7 +36,7 @@
     "validation": "all seven numerical checks passed"
   },
   "script_hashes": {
-    "01_pca.py": "db37c222858905e448c664105f9bb58256fe892501248ac287e4e755a1e6a344",
+    "01_pca.py": "f1e0a69790f21dac7605f029a46184fff3a0596f955d689ce6faaf1da1715b1d",
     "common.py": "4f6625609d3889904572b67b3df675c4c9a0180f614d06fcb903528cc2badb96"
   }
 }

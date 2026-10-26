@@ -12,7 +12,7 @@ Fresh verification passed: every reported numerical anchor matches frozen v1.1 e
 - `code/features/`: unchanged frozen feature-function provenance and parser settings; these are not corpus-build entry points.
 - `code/figures/`: portable copies of final manuscript plot procedures.
 - `supplementary/`: approved Supplementary Tables S1–S3 in Excel format only, described below.
-- `figures/`: approved current PNG figures 2–5. Generated figures go to `reproduced_figures/`.
+- `figures/`: approved current PNG figures 2–5, with PDF/SVG exports of Figure 5. Generated figures go to `reproduced_figures/`.
 - `REPRODUCTION_VERIFICATION.json` and `anchor_verification.json`: fresh execution checks and exact comparisons against frozen v1.1 values.
 
 ## Supplementary tables
@@ -56,6 +56,12 @@ The runner executes Round 1 scripts 01–06 in order, then Round 2 PCA, final pl
 - **Panel D:** intervals `estimate ± t.ppf(1−0.05/(2×6), df) × SE` from the existing M1 contrast CSVs, with HC3 df 553 and CR1 df 230. The six contrasts form a separate family for each outcome and estimator. Panel B retains pointwise intervals.
 
 The step checks the approved S2 checksum and compares full-precision numeric cells using rtol `1e-10`, interval/F/estimate atol `1e-13`, and p-value atol zero. A mismatch stops reproduction. New outputs are `s2_panel_a_artist_clustered.csv`, `s2_panel_d_simultaneous_intervals.csv`, and `s2_panels_verification.json` in the Round 1 results directory. Existing result files are read-only inputs to this step; Supplementary Tables S1–S3 are never regenerated. No additional omnibus multiplicity correction is applied. Clustering adjusts inference for within-artist dependence, without controlling artist-specific, year, or songwriter confounding.
+
+## Figure 5: PCA with labeled genre centroids
+
+[Figure 5](figures/Figure5_PCA_v1_1.png) shows individual songs and directly labeled genre centroids ([PDF](figures/Figure5_PCA_v1_1.pdf), [SVG](figures/Figure5_PCA_v1_1.svg)). The approved Version 1 styling uses distinct song markers, smaller centroid diamonds, and fixed labels with 0.65-pt gray connector lines. Axis labels remain PC1 (33.7%) and PC2 (23.4%). This is a descriptive projection; no inferential claim of significant genre separation is made.
+
+`code/analysis/round2/01_pca.py` computes and validates the unchanged PCA results. Its separate legacy plot block has been removed. The sole final Figure 5 plotting implementation is `code/figures/generate_figure5.py`, invoked by `code/reproduce.py`; it reads saved scores, centroids and variance without refitting PCA. The PNG and PDF reproduce the reviewed Version 1 exports byte-for-byte. The prior official Figure 5 is superseded and remains recoverable in Git history. Current approved hashes, the superseded PNG hash, and verification details are recorded in `REPRODUCTION_VERIFICATION.json`.
 
 ## Feature extraction
 

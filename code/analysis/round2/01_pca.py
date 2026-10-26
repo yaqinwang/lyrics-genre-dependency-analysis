@@ -28,14 +28,6 @@ second=PCA(n_components=8,svd_solver='full',whiten=False).fit(Z);assert np.array
 # This convention is sqrt(N/(N-1)) times the feature-PC Pearson correlation.
 actual=np.corrcoef(Z.T,scores.T)[:8,8:];assert np.allclose(loadings,actual*np.sqrt(561/560),atol=1e-12)
 save('pca_validation.csv',[dict(check=x,passed=True) for x in ['independent covariance eigensystem','reconstruction with all PCs','orthonormal coefficients','diagonal score covariance','ddof convention eigenvalue sum','identical repeated deterministic fit','documented loading convention']])
-fig,ax=plt.subplots(figsize=(9.2,6.6))
-for g,label,color in zip(GENRES,DISPLAY,COLORS):
- t=s[s.genre==g];cent=c[c.genre==g].iloc[0]
- ax.scatter(t.PC1,t.PC2,s=19,alpha=.48,c=color,edgecolors='none',label=f'{label} (n={len(t)})')
- ax.scatter(cent.PC1,cent.PC2,s=130,c=color,marker='D',edgecolors='black',linewidths=.9,zorder=5)
-ax.axhline(0,color='.75',lw=.7,zorder=0);ax.axvline(0,color='.75',lw=.7,zorder=0)
-ax.set(xlabel=f'PC1 ({pca.explained_variance_ratio_[0]*100:.2f}%)',ylabel=f'PC2 ({pca.explained_variance_ratio_[1]*100:.2f}%)',title='Song-level PCA: individual songs and genre centroids')
-ax.set_aspect('equal',adjustable='datalim');ax.legend(loc='upper left',bbox_to_anchor=(1.01,1),frameon=False,title='Genre')
-fig.text(.12,.015,'Diamonds = genre means. Descriptive projection; no confidence ellipses or separation tests.',fontsize=9)
-fig.tight_layout(rect=(0,.04,1,1));export(fig,'figure4_pca')
+# Final manuscript Figure 5 is generated only by code/figures/generate_figure5.py.
+# code/reproduce.py invokes that saved-score plotting step after this numerical stage.
 manifest('01_pca',{'N':561,'features':MEASURES,'scaling':'StandardScaler population SD ddof=0','PCA':'full deterministic SVD, 8 components, no whitening','eigenvalue':'sample covariance denominator N-1','loadings':'component coefficient * sqrt(eigenvalue); retained historical convention, not exactly Pearson correlations under population scaling','orientation':'largest absolute coefficient positive per PC','plot':'all 561 songs + 7 means; no ellipses, no inferential cluster tests','validation':'all seven numerical checks passed'})
